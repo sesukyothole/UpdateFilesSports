@@ -138,7 +138,7 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD
 https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-FHD
-https://mantul.biz.id:443/live/inetwork/gayanet12/5286.ts
+https://mantul.biz.id:443/live/inetwork/gayanet12/5286.ts|User-Agent=MXPlayer/1.91.3 (Linux; Android 13; in-ID; M2103K19G Build/TP1A.220624.014)
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.(indihome)
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SCTV(indihome)
