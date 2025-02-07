@@ -1238,8 +1238,46 @@ http://ktv.im:8080/fullpack15months354/213907856/429315
 http://ktv.im:8080/fullpack15months354/213907856/429316 
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Canal+ Sport 5 HD" tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",DSTV: Canal+ Sport 5 HD
 http://ktv.im:8080/fullpack15months354/213907856/429317 
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: CANAL+ FORMULA1 HD" tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",DSTV: CANAL+ FORMULA1 HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",DSTV: CANAL+ FORMULA1 HD 
 http://ktv.im:8080/fullpack15months354/213907856/429318
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Variety 1 [b]
+http://line.cv2025.biz:8080/726255161/677632688/41610
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Variety 2 [b]
+http://line.cv2025.biz:8080/726255161/677632688/41611
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Variety 3 [b]
+http://line.cv2025.biz:8080/726255161/677632688/41612
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Variety 4 [b]
+http://line.cv2025.biz:8080/726255161/677632688/41613
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Laliga [b]
+http://line.cv2025.biz:8080/726255161/677632688/41614
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport PSL [b]
+http://line.cv2025.biz:8080/726255161/677632688/41615
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Premier League [b]
+http://line.cv2025.biz:8080/726255161/677632688/41616
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Grandstand [b]
+http://line.cv2025.biz:8080/726255161/677632688/41617
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport S Action [b]
+http://line.cv2025.biz:8080/726255161/677632688/41618
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Football [b]
+http://line.cv2025.biz:8080/726255161/677632688/41619
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Rugby [b]
+http://line.cv2025.biz:8080/726255161/677632688/41620
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Cricket [b]
+http://line.cv2025.biz:8080/726255161/677632688/41621
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Golf [b]
+http://line.cv2025.biz:8080/726255161/677632688/41622
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Maximo 1 [b]
+http://line.cv2025.biz:8080/726255161/677632688/41623
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Play [b]
+http://line.cv2025.biz:8080/726255161/677632688/41624
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Motorsport [b]
+http://line.cv2025.biz:8080/726255161/677632688/41625
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Tennis [b]
+http://line.cv2025.biz:8080/726255161/677632688/41626
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SuperSport Blitz [b]
+http://line.cv2025.biz:8080/726255161/677632688/41627
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV| BACK_UP", SUPER SPORT PREMIER LEAGUE HD 
@@ -1715,6 +1753,32 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",Sportv~ 3 HD
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
 
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",beINSport1.4k 
+http://line.cv2025.biz:8080/726255161/677632688/14971 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", beINSport2.4k 
+http://line.cv2025.biz:8080/726255161/677632688/14972 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", beINSport3.4k 
+http://line.cv2025.biz:8080/726255161/677632688/14973 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", RMC.Sport1.4k 
+http://line.cv2025.biz:8080/726255161/677632688/14974 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", RMC.Sport2.4k 
+http://line.cv2025.biz:8080/726255161/677632688/14975
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", Eurosport1.4k 
+http://line.cv2025.biz:8080/726255161/677632688/14978 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", Eurosport2.4k 
+http://line.cv2025.biz:8080/726255161/677632688/14979 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", Infosport.4k 
+http://line.cv2025.biz:8080/726255161/677632688/14980 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", Equipe21.4k 
+http://line.cv2025.biz:8080/726255161/677632688/14981 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", Golf+4k 
+http://line.cv2025.biz:8080/726255161/677632688/14982 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", Equidia.Live.4K 
+http://line.cv2025.biz:8080/726255161/677632688/14983
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://i.imgur.com/tM9y14c.png" tvg-country="FR" group-title="SHAREEXT@FRANCE ➾  SPORT",LE GRAND DIRECT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
@@ -2300,9 +2364,103 @@ http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/66783
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/16131
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Liverpool.TV
+http://line.cv2025.biz:8080/726255161/677632688/706
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",SkySport.Action
+http://line.cv2025.biz:8080/726255161/677632688/525
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",SkySport.Football
+http://line.cv2025.biz:8080/726255161/677632688/526
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",SkySport.Premiere.League
+http://line.cv2025.biz:8080/726255161/677632688/527
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",SkySport.Arena
+http://line.cv2025.biz:8080/726255161/677632688/528
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",SkySport.Cricket
+http://line.cv2025.biz:8080/726255161/677632688/529
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Sky.Sports.Mix
+http://line.cv2025.biz:8080/726255161/677632688/532
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Sky.Sports.F1
+http://line.cv2025.biz:8080/726255161/677632688/533
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Sky.Sports.News
+http://line.cv2025.biz:8080/726255161/677632688/534
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",BT.Sports.Espn
+http://line.cv2025.biz:8080/726255161/677632688/553
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",BT.Sport1
+http://line.cv2025.biz:8080/726255161/677632688/530
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",BT.Sport2
+http://line.cv2025.biz:8080/726255161/677632688/531
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",BTSport3
+http://line.cv2025.biz:8080/726255161/677632688/1284
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Eir.Sport1
+http://line.cv2025.biz:8080/726255161/677632688/535
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Eir.Sport2
+http://line.cv2025.biz:8080/726255161/677632688/536
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Box.Nation
+http://line.cv2025.biz:8080/726255161/677632688/1324
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Horse.Country
+http://line.cv2025.biz:8080/726255161/677632688/5594
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Racing.UK
+http://line.cv2025.biz:8080/726255161/677632688/5606
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Premier.Sport
+http://line.cv2025.biz:8080/726255161/677632688/5607
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Motor.Sport.tv
+http://line.cv2025.biz:8080/726255161/677632688/5608
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Chelsea.TV
+http://line.cv2025.biz:8080/726255161/677632688/5609
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",BTSport.Espn
+http://line.cv2025.biz:8080/726255161/677632688/5610
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",Free.Sports
+http://line.cv2025.biz:8080/726255161/677632688/5611
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDONG || SPORTS",SKY.Sports.Golf
+http://line.cv2025.biz:8080/726255161/677632688/5612
 
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",Eleven.Sports1
+http://line.cv2025.biz:8080/726255161/677632688/13887
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",Eleven.Sports2
+http://line.cv2025.biz:8080/726255161/677632688/13888
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",Eleven.Sports3
+http://line.cv2025.biz:8080/726255161/677632688/13889
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",Eleven.Sports4
+http://line.cv2025.biz:8080/726255161/677632688/13890
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",Polsat.Sport
+http://line.cv2025.biz:8080/726255161/677632688/13898
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",Polsat.Sport.Extra
+http://line.cv2025.biz:8080/726255161/677632688/13899
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",Canal.Sport
+http://line.cv2025.biz:8080/726255161/677632688/13914
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",Canal.Sport3
+http://line.cv2025.biz:8080/726255161/677632688/13931
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",Canal.Sport4
+http://line.cv2025.biz:8080/726255161/677632688/13948
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",TVP.Sport
+http://line.cv2025.biz:8080/726255161/677632688/13968
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ POLANDIA || SPORTS",Motor.Wizja
+http://line.cv2025.biz:8080/726255161/677632688/13947
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",C.More.Fotboll
+http://line.cv2025.biz:8080/726255161/677632688/14216
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",C.More.Golf
+http://line.cv2025.biz:8080/726255161/677632688/14217
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",C.More.Hockey
+http://line.cv2025.biz:8080/726255161/677632688/14218
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",TV3.Sport
+http://line.cv2025.biz:8080/726255161/677632688/14197
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",Viasat.Sport.Premium
+http://line.cv2025.biz:8080/726255161/677632688/14223
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",Viasat.Sport
+http://line.cv2025.biz:8080/726255161/677632688/14224
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",Viasat.Fotboll
+http://line.cv2025.biz:8080/726255161/677632688/14225
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",Viasat.Golf
+http://line.cv2025.biz:8080/726255161/677632688/14226
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",Viasat.Hockey
+http://line.cv2025.biz:8080/726255161/677632688/14227
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",EuroSport1
+http://line.cv2025.biz:8080/726255161/677632688/14248
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ SWEDIA || SPORTS",EuroSport2
+http://line.cv2025.biz:8080/726255161/677632688/14249
 
 
 
