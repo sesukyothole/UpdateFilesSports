@@ -33,6 +33,13 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304093
 #EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports PL 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Relax",HK: NowSports PL 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304467
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="ShareExt@Relax", CCTV16
+http://36.105.100.208:35455/gaoma/cctv5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="ShareExt@Relax", CCTV16
+http://36.105.100.208:35455/gaoma/cctv5p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="ShareExt@Relax", CCTV16
+http://36.105.100.208:35455/gaoma/cctv16.m3u8
+
 #EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="ShareExt@Relax",[TW] ELTA.SPORTS.1.台
 http://iptv12k.com:35461/654321/123456/14443
 #EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="ShareExt@Relax",[TW] ELTA.SPORTS.2.台 
@@ -184,8 +191,6 @@ http://filex.tv:8080/live/aftab123/004090/302264.ts
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(12k)
 http://iptv12k.com:35461/654321/123456/4802
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(pft)televizo
-http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1604.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(VIP.4)
 http://viphomal.xyz:8080/VIP0171171267961865/0b5022b42ae0/34327
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(VIP.3)
@@ -194,8 +199,6 @@ http://viphomal.xyz:8080/VIP013681714154194007/cceef67a25be/34327
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD
-https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(denstv)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.(indihome)
