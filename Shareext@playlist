@@ -710,7 +710,7 @@ https://kodonolonz.serv00.net/tol/mbut/Sonyten5.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TH: beIN Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",TH: beIN Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="TH: beIN Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: beIN Sports 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/302365
 #EXTINF:-1 tvg-id="" tvg-name="TH: T Sports 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/e90d9580e214f9ba8d33c402abb4d906.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: T Sports 7
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/305381
@@ -1743,26 +1743,39 @@ https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", TVRI Sport(ID)	
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 EUROSPORTS
-http://shareext@15.235.181.35/live.ts?channelId=271&uid=14505&deviceMac=00:1A:79:A7:53:75&id=espn
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 ESPN_1
-http://shareext@15.235.181.35/live.ts?channelId=272&uid=14505&deviceMac=00:1A:79:A7:53:75&id=eurosports1
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 ESPN_2
-http://shareext@15.235.181.35/live.ts?channelId=273&uid=14505&deviceMac=00:1A:79:A7:53:75&id=eurosports2
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 TNT_SPORTS_1
-http://shareext@15.235.181.35/live.ts?channelId=267&uid=14505&deviceMac=00:1A:79:A7:53:75&id=tntsports1
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 TNT_SPORTS_2
-http://shareext@15.235.181.35/live.ts?channelId=268&uid=14505&deviceMac=00:1A:79:A7:53:75&id=tntsports2
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 TNT_SPORTS_3
-http://shareext@15.235.181.35/live.ts?channelId=269&uid=14505&deviceMac=00:1A:79:A7:53:75&id=tntsports3
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 TNT_SPORTS_4
-http://shareext@15.235.181.35/live.ts?channelId=270&uid=14505&deviceMac=00:1A:79:A7:53:75&id=tntsports4
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 SKYSPORTS_NFL
-http://shareext@15.235.181.35/live.ts?channelId=280&uid=14505&deviceMac=00:1A:79:A7:53:75&id=skysportnfl
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 SKYSPORTS_CRICKET
-http://shareext@15.235.181.35/live.ts?channelId=281&uid=14505&deviceMac=00:1A:79:A7:53:75&id=skysportcricket
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 SKYSPORTS_F1
-http://shareext@15.235.181.35/live.ts?channelId=282&uid=14505&deviceMac=00:1A:79:A7:53:75&id=skysportf1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS MAIN EVENT red
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418515
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS PREMIER LEAGUE HDR
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418517
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS FOOTBALL red
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418518
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS MIX
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418519
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS PLUS
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418520
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS ACTION HDR
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418521
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS RACING
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418522
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS CRICKET HDR
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418523
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS GOLF HDR
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418524
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS TENNIS
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418526
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| SKYSPORTS F1
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418527
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| TNT SPORT 1 LIVE red
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418529
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| TNT SPORT 2 LIVE red
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418530
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| TNT SPORT 3 LIVE red
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418531
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| TNT SPORT 4 LIVE red
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418532
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK| TNT SPORT 5 LIVE red
+http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/418533
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK-SkySports Action 
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/53705 
