@@ -149,6 +149,10 @@ http://extraott.com/live/6945574629/7169628753/400200727.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPOTV_2.(ext)
 http://extraott.com/live/6945574629/7169628753/400200726.ts
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", Indosiar-HD (HDD)
+https://mantul.biz.id:443/user010223/user010223/60.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", Indosiar-HD (FHDD)
+https://mantul.biz.id:443/user010223/user010223/5286.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", Indosiar-HD (aflaxtv)
 http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(4knew)
