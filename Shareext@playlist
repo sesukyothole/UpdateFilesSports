@@ -66,8 +66,6 @@ http://iptv12k.com:35461/654321/123456/3131
 http://iptv12k.com:35461/654321/123456/2587
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",[ID] FightSports
 http://iptv12k.com:35461/654321/123456/1788
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/inews-id.png" group-title="ShareExt@Relax",[ID] iNews
-http://iptv12k.com:35461/654321/123456/1799
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="ShareExt@Relax",Bola Arena 1 
 http://iptv12k.com:35461/654321/123456/20630
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="ShareExt@Relax",Bola Arena 2 
@@ -1251,38 +1249,6 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62997
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AU| BEIN SPORTS 1 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", BEINSPORTS 1 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334487
-#EXTINF:-1 tvg-id="" tvg-name="AU| BEIN SPORTS 2 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", BEINSPORTS 2 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334488
-#EXTINF:-1 tvg-id="" tvg-name="AU| BEIN SPORTS 3 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", BEINSPORTS 3 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334489
-#EXTINF:-1 tvg-id="" tvg-name="AU| ESPN 1 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", ESPN 1 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334490
-#EXTINF:-1 tvg-id="" tvg-name="AU| ESPN 2 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", ESPN 2 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334491
-#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 501 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", FOX SPORTS 501 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334485
-#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 502 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", FOX SPORTS 502 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334492
-#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 503 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", FOX SPORTS 503 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334493
-#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 504 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", FOX SPORTS 504 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334494
-#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 505 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", FOX SPORTS 505 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334486
-#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 506 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", FOX SPORTS 506 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334484
-#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 507 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", FOX SPORTS 507 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334495
-#EXTINF:-1 tvg-id="" tvg-name="AU| SKY RACING 1 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", SKY RACING 1 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334497
-#EXTINF:-1 tvg-id="" tvg-name="AU| SKY RACING 2 HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", SKY RACING 2 HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334496
-#EXTINF:-1 tvg-id="" tvg-name="AU| RACING HD" tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", RACING HD
-http://tv1.tvendirect.online:8080/Pascalpaltot/GzEnvkm936Kv/334498
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SKYSPORTS_1
 http://extraott.com/live/6945574629/7169628753/710948.ts
