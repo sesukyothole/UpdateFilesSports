@@ -69,6 +69,8 @@ http://extraott.com/live/6945574629/7169628753/400200727.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPOTV_2.(ext)
 http://extraott.com/live/6945574629/7169628753/400200726.ts
 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",ID ▎INDOSIAR
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1505849
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", Indosiar-HD (aflaxtv)
 http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(4knew)
@@ -304,6 +306,23 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Spotv_VISION+
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎RCTI" tvg-logo="https://img.logo-cdn.cc/rcti.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID ▎RCTI
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1505867
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎MNC TV" tvg-logo="https://img.logo-cdn.cc/mnctv.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID ▎MNC TV
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1505855
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎GTV" tvg-logo="https://img.logo-cdn.cc/gtv.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID ▎GTV
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1505835
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎INEWS" tvg-logo="https://img.logo-cdn.cc/inews.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID ▎INEWS
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1505850
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎INDOSIAR" tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID ▎INDOSIAR
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1505849
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎MOJI" tvg-logo="https://img.logo-cdn.cc/moji.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID ▎MOJI
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1505856
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎BEIN SPORTS 1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID ▎SPOTV 1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1505814
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎BEIN SPORTS 3" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID ▎SPOTV 2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1505815
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID: SpoTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165105
 #EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID: SpoTV 2
@@ -367,40 +386,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_1.png", ChampionsTV1_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17938&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
-
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_2.png", ChampionsTV2_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6686&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash 
-
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_3.png", ChampionsTV3_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6786&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash 
-
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_5.png", ChampionsTV5_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash 
-
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_6.png", ChampionsTV6_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash 
-
 #EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png", BeinSports 1_mpd [ott.nav]
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -428,6 +413,36 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV~dens
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎BEIN SPORTS" tvg-logo="https://img.logo-cdn.cc/beinsportsafc.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎BEIN SPORTS
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656967
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎BEIN SPORTS 2" tvg-logo="https://img.logo-cdn.cc/beinsportsafc.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎BEIN SPORTS 2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656968
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO SUPERSPORT" tvg-logo="https://img.logo-cdn.cc/astrosupersport.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎ASTRO SUPERSPORT
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656970
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO SUPERSPORT 2" tvg-logo="https://img.logo-cdn.cc/astrosupersport.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎ASTRO SUPERSPORT 2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656971
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO SUPERSPORT 3" tvg-logo="https://img.logo-cdn.cc/astrosupersport.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎ASTRO SUPERSPORT 3
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656972
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO SUPERSPORT 4" tvg-logo="https://img.logo-cdn.cc/astrosupersport.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎ASTRO SUPERSPORT 4
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656973
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎EUROSPORT" tvg-logo="https://img.logo-cdn.cc/eurosport.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎EUROSPORT
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656964
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎WSPORT" tvg-logo="https://img.logo-cdn.cc/astrotutortv.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎WSPORT
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656857
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO CRICKET" tvg-logo="https://img.logo-cdn.cc/astrocricket.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎ASTRO CRICKET
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656962
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎SPORTS SPO TV" tvg-logo="https://img.logo-cdn.cc/bbcworldnews.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎SPORTS SPO TV
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656867
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎SPOTV2" tvg-logo="https://img.logo-cdn.cc/spotv2.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎SPOTV2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656927
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎TV OKEY" tvg-logo="https://img.logo-cdn.cc/tvokey.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎TV OKEY
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656952
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎WWE NETWORK" tvg-logo="https://img.logo-cdn.cc/wwenetwork.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY ▎WWE NETWORK
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656966
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY: ARENA
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157485
@@ -1674,6 +1689,44 @@ http://185.189.225.157/EuroSport2/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="MX ▎PLUTO TV LUCHA LIBRE AAA" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="ShareExt@FIGHT_Sports",MX ▎PLUTO TV LUCHA LIBRE AAA(pluto)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
+#EXTINF:-1 tvg-ID="" tvg-name="MX ▎PLUTO TV LUCHA LIBRE AAA" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="ShareExt@FIGHT_Sports",MX ▎PLUTO TV LUCHA LIBRE AAA(roku)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-ID="fightKlub.pl" tvg-name="PL ▎FIGHTKLUB HD" tvg-logo="https://img.logo-cdn.cc/fightklub.png" group-title="ShareExt@FIGHT_Sports",PL ▎FIGHTKLUB HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/105448
+#EXTINF:-1 tvg-ID="fightbox.pl" tvg-name="PL ▎FIGHTBOX HD" tvg-logo="https://img.logo-cdn.cc/fightbox.png" group-title="ShareExt@FIGHT_Sports",PL ▎FIGHTBOX HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/105461
+#EXTINF:-1 tvg-ID="" tvg-name="PL ▎UFC Fight Pass" tvg-logo="https://img.logo-cdn.cc/ufcfightpass.png" group-title="ShareExt@FIGHT_Sports",PL ▎UFC Fight Pass
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1281218
+#EXTINF:-1 tvg-ID="" tvg-name="PL ▎OKTAGON.TV" tvg-logo="https://img.logo-cdn.cc/oktagon.tv.png" group-title="ShareExt@FIGHT_Sports",PL ▎OKTAGON.TV
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1281215
+#EXTINF:-1 tvg-ID="" tvg-name="PL ▎MMA ATTACKE" tvg-logo="https://img.logo-cdn.cc/mmaattacke.png" group-title="ShareExt@FIGHT_Sports",PL ▎MMA ATTACKE
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1281216
+#EXTINF:-1 tvg-ID="" tvg-name="PL ▎CLOUT MMA" tvg-logo="https://img.logo-cdn.cc/famemma.png" group-title="ShareExt@FIGHT_Sports",PL ▎CLOUT MMA
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1483828
+#EXTINF:-1 tvg-ID="" tvg-name="PL ▎FAME MMA" tvg-logo="https://img.logo-cdn.cc/famemma.png" group-title="ShareExt@FIGHT_Sports",PL ▎FAME MMA
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1281207
+#EXTINF:-1 tvg-ID="" tvg-name="PL ▎PRIME MMA" tvg-logo="https://img.logo-cdn.cc/primemma.png" group-title="ShareExt@FIGHT_Sports",PL ▎PRIME MMA
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1281209
+#EXTINF:-1 tvg-ID="" tvg-name="PL ▎Glory Kickboxing" tvg-logo="https://img.logo-cdn.cc/glorykickboxing.png" group-title="ShareExt@FIGHT_Sports",PL ▎Glory Kickboxing
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1281220
+#EXTINF:-1 tvg-ID="" tvg-name="PL ▎GROMDA.TV" tvg-logo="https://img.logo-cdn.cc/gromda.tv.png" group-title="ShareExt@FIGHT_Sports",PL ▎GROMDA.TV
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1281213
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎WWE NETWORK" tvg-logo="https://img.logo-cdn.cc/wwenetwork.png" group-title="ShareExt@FIGHT_Sports",MY ▎WWE NETWORK
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656966
+#EXTINF:-1 tvg-ID="" tvg-name="KURD ▎WWE HD" tvg-logo="https://img.logo-cdn.cc/wwenetwork.png" group-title="ShareExt@FIGHT_Sports",KURD ▎WWE HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/482091
+#EXTINF:-1 tvg-ID="" tvg-name="UFC FIGHT PASS" tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="ShareExt@FIGHT_Sports",UFC FIGHT PASS
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1452565
+#EXTINF:-1 tvg-ID="" tvg-name="NO ▎IMPACT WRESTLING" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="ShareExt@FIGHT_Sports",NO ▎IMPACT WRESTLING
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d8dba260bc8f0008a115d9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-ID="" tvg-name="PT ▎FIGHT NETWORK FHD" tvg-logo="https://img.logo-cdn.cc/fightnetwork.png" group-title="ShareExt@FIGHT_Sports",PT ▎FIGHT NETWORK FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/123815 
+#EXTINF:-1 tvg-ID="" tvg-name="RO ▎FIGHTBOX HD" tvg-logo="https://img.logo-cdn.cc/ardeal.png" group-title="ShareExt@FIGHT_Sports",RO ▎FIGHTBOX HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1436474
 
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",Live Events UFC 1 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/17086 
