@@ -68,8 +68,17 @@ http://extraott.com/live/6945574629/7169628753/400200723.ts
 http://extraott.com/live/6945574629/7169628753/400200727.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPOTV_2.(ext)
 http://extraott.com/live/6945574629/7169628753/400200726.ts
-
-#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",ID ▎INDOSIAR
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",INDOSIAR_HD_elite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=205
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax", INDOSIAR_BRI.1_mpd(ott.nav)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",INDOSIAR_HD(z)
+https://zozotv.xyz:443/live/zotv744/zxy086/45.ts
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",ID ▎INDOSIAR_HD
 http://m1-max.dns-speedy.com:80/529C1C/7446D7/1505849
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", Indosiar-HD (aflaxtv)
 http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
