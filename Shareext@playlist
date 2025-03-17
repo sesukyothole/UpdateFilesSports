@@ -531,29 +531,6 @@ http://supersonictv.live:8080/SLIM23/SARASOTA14/85567
 #EXTINF:-1 tvg-id="" tvg-name="[IN]  STAR SPORTS 3" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN]  STAR SPORTS 3
 http://supersonictv.live:8080/SLIM23/SARASOTA14/85652
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",VISION_SPORTS
-http://shareext@15.235.181.35/live.ts?channelId=132401&uid=14505&deviceMac=00:1A:79:A7:53:75&id=visionsports
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",LIVE_KABADDI
-http://shareext@15.235.181.35/live.ts?channelId=276&uid=14505&deviceMac=00:1A:79:A7:53:75&id=livekabaddi
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",18_SPORTS_KHELL
-http://shareext@15.235.181.35/live.ts?channelId=102478&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sportskhell
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",18_SPORTS_1
-http://shareext@15.235.181.35/live.ts?channelId=102479&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports1
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",18_SPORTS_2
-http://shareext@15.235.181.35/live.ts?channelId=132373&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports2
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",18_SPORTS_3
-http://shareext@15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",5_KABADDI
-http://shareext@15.235.181.35/live.ts?channelId=277&uid=14505&deviceMac=00:1A:79:A7:53:75&id=5kabaddi
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",GEO_SUPER
-http://shareext@15.235.181.35/live.ts?channelId=274&uid=14505&deviceMac=00:1A:79:A7:53:75&id=geosuper
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",PTV_HIGHTLIGHT
-http://shareext@15.235.181.35/live.ts?channelId=278&uid=14505&deviceMac=00:1A:79:A7:53:75&id=ptvhightlight
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",PTV_SPORTS_HD
-http://shareext@15.235.181.35/live.ts?channelId=279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=ptvsportshd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",STAR_SPORTS_TAMIL
-http://shareext@15.235.181.35/live.ts?channelId=275&uid=14505&deviceMac=00:1A:79:A7:53:75&id=starsports1tamil
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",MAO_TV_HD(cloud)
 http://tv.cloudcdn.me:80/live.ts?channelId=292&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS_1_HD(cloud)
