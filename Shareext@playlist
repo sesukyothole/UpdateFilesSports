@@ -61,6 +61,9 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="ShareExt@Relax", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",INDOSIAR_HD_bnet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+https://my.bianet.es/Folysiliti/Indosiar-HD.m3u8
 #EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",INDOSIAR_HD_3
 http://iptvtree.net:8080/F25093/29838750/162138
 #EXTINF:-1 tvg-logo="https://iili.io/2h01fDJ.png" group-title="ShareExt@Relax",INDOSIAR BRI LIGA 1
@@ -274,6 +277,78 @@ http://61.160.112.102:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
 http://61.160.112.102:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播45
 http://61.160.112.102:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+
+
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #01" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SHAREEXT@ LIVE•EVENT || Philippines",PILIPINAS LIVE EVENT 01_MPD(ott.navigator)
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #02" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SHAREEXT@ LIVE•EVENT || Philippines",PILIPINAS LIVE EVENT 02_MPD(ott.navigator)
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #03" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SHAREEXT@ LIVE•EVENT || Philippines",PILIPINAS LIVE EVENT 03_MPD(ott.navigator)
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi3.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #04" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SHAREEXT@ LIVE•EVENT || Philippines",PILIPINAS LIVE EVENT 04_MPD(ott.navigator)
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/pl_sdi4.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #05" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SHAREEXT@ LIVE•EVENT || Philippines",PILIPINAS LIVE EVENT 05_MPD(ott.navigator)
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi5.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #06" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SHAREEXT@ LIVE•EVENT || Philippines",PILIPINAS LIVE EVENT 06_MPD(ott.navigator)
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi6.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #07" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SHAREEXT@ LIVE•EVENT || Philippines",PILIPINAS LIVE EVENT 07_MPD(ott.navigator)
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pl_sdi7.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #08" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SHAREEXT@ LIVE•EVENT || Philippines",PILIPINAS LIVE EVENT 08_MPD(ott.navigator)
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #09" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SHAREEXT@ LIVE•EVENT || Philippines",PILIPINAS LIVE EVENT 09_MPD(ott.navigator)
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_sdi9.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #10" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SHAREEXT@ LIVE•EVENT || Philippines",PILIPINAS LIVE EVENT 10_MPD(ott.navigator)
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
 
 
 
