@@ -25,6 +25,17 @@ rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",DAZN/ELEVEN体育2_TW
 rtmp://f13h.mine.nu/sat/tv741
 
+#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabolaA.png" group-title="ShareExt@Relax",Arena Bola (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2680.ts
+#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2A.png" group-title="ShareExt@Relax",Arena Bola 2 (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2681.ts
+#EXTINF:-1 tvg-id="" tvg-name="806 Premier League (A)" tvg-logo="https://perfecttv.net/logo/premierleagueA.png" group-title="ShareExt@Relax",PremierLeague (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2682.ts
+#EXTINF:-1 tvg-id="" tvg-name="807 Premier League 2 (A)" tvg-logo="https://perfecttv.net/logo/premierleague2A.png" group-title="ShareExt@Relax",PremierLeague 2 (vip) 
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2683.ts
+#EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="ShareExt@Relax",Astro Grandstand (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2698.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Now Premier Sports [vip]" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NowPremier Sports [vip]
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304730
 #EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Now Sports Prime [vip]" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NowSports Prime [vip]
@@ -61,6 +72,8 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="ShareExt@Relax", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="ShareExt@Relax",Indosiar (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
 #EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",INDOSIAR_HD_bnet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 https://my.bianet.es/Folysiliti/Indosiar-HD.m3u8
@@ -116,6 +129,17 @@ http://xtv.ooo:8080/live/danyear12/am809100/350996.ts
 http://xtv.ooo:8080/live/danyear12/am809100/350973.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",GTV (XTV)
 http://xtv.ooo:8080/live/danyear12/am809100/350954.ts
+
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="ShareExt@Relax",Trans7 (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2705.ts
+#EXTINF:-1 tvg-id="TransTV. MACAN" tvg-name="Trans Tv" tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="ShareExt@Relax",Trans Tv (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2704.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="ShareExt@Relax",RCTI (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2701.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="ShareExt@Relax",MNCTV (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2700.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="ShareExt@Relax",SCTV (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2699.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SCTV(indihome)
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
