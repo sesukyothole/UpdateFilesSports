@@ -502,6 +502,97 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
 
 
 
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",TR| BEINSPORTS 1 HD 
+http://bmudnfh.megahdtv.xyz:900/live/0032829421/5272592091/191529.m3u8 
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",TR| BEINSPORTS 2 HD 
+http://bmudnfh.megahdtv.xyz:900/live/0032829421/5272592091/191533.m3u8 
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",TR| BEINSPORTS 3 HD 
+http://bmudnfh.megahdtv.xyz:900/live/0032829421/5272592091/191535.m3u8 
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",TR| BEIN SPORTS 4 HD 
+http://bmudnfh.megahdtv.xyz:900/live/0032829421/5272592091/191537.m3u8 
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",TR| BEINSPORTS 5 HD 
+http://bmudnfh.megahdtv.xyz:900/live/0032829421/5272592091/62711.m3u8 
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",TR| BEINSPORTS MAX 1 FHD 
+http://bmudnfh.megahdtv.xyz:900/live/0032829421/5272592091/191540.m3u8 
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",TR| BEIN SPORTS MAX 2 FHD 
+http://bmudnfh.megahdtv.xyz:900/live/0032829421/5272592091/191542.m3u8
+
+#EXTINF:-1 tvg-id="bein.sport.canada.ca" tvg-name="CA136:Bein Sports HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA136BeinSports.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",CA| BeinSports HD
+http://wanicelife.com:8880/D12m4389/60388773/30178
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK251:BEIN SPORTS 1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="SHAREEXT@ BEINSPORTS || GROUP",UK| BEINSPORTS 1 
+http://wanicelife.com:8880/D12m4389/60388773/28808
+#EXTINF:-1 tvg-id="" tvg-name="UK252:BEIN SPORTS 2 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="SHAREEXT@ BEINSPORTS || GROUP",UK| BEINSPORTS 2 
+http://wanicelife.com:8880/D12m4389/60388773/28807
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK254:BEIN SPORTS 4 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK254Home.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",UK| BEINSPORTS 4 
+http://wanicelife.com:8880/D12m4389/60388773/28805
+#EXTINF:-1 tvg-id="heart.gb" tvg-name="UK257:BEIN SPORTS 7 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="SHAREEXT@ BEINSPORTS || GROUP",UK| BEINSPORTS 7 
+http://wanicelife.com:8880/D12m4389/60388773/28802
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="FR036:BEIN SPORTS 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR036CineFrisson.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS 1 FHD
+http://wanicelife.com:8880/D12m4389/60388773/2830
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="FR037:BEIN SPORTS 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR037" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS 2 FHD
+http://wanicelife.com:8880/D12m4389/60388773/2829
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="FR038:BEIN SPORTS 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR038CinePolar.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS 3 FHD
+http://wanicelife.com:8880/D12m4389/60388773/2828
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="FR040:BEIN SPORTS MAX 4 FHD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR040ComediePlus.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS MAX 4 FHD (EVENT ONLY)
+http://wanicelife.com:8880/D12m4389/60388773/2826
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="FR041:BEIN SPORTS MAX 5 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR041CStar.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS MAX 5 HD (EVENT ONLY)
+http://wanicelife.com:8880/D12m4389/60388773/2825
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="FR042:BEIN SPORTS MAX 6 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR042Discovery.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS MAX 6 HD (EVENT ONLY)
+http://wanicelife.com:8880/D12m4389/60388773/2824
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="FR043:BEIN SPORTS MAX 7 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR043DiscoveryScience.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS MAX 7 HD (EVENT ONLY)
+http://wanicelife.com:8880/D12m4389/60388773/2823
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="FR044:BEIN SPORTS MAX 8 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR044DisneyFR.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS MAX 8 HD (EVENT ONLY)
+http://wanicelife.com:8880/D12m4389/60388773/2822
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="FR045:BEIN SPORTS MAX 9 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR045DisneyCinema.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS MAX 9 HD (EVENT ONLY)
+http://wanicelife.com:8880/D12m4389/60388773/2821
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR039:BEIN SPORTS MAX 10 FHD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR039CinePermier.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS MAX 10 FHD (EVENT ONLY)
+http://wanicelife.com:8880/D12m4389/60388773/2827
+
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA beIN Sports LHD" tvg-logo="http://23.227.147.172:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",USA| beINSports LHD
+http://ky-iptv.com:80/DAVMR31/44991177/220395.ts
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA BeIN SPORTS HD" tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",USA| BeINSPORTS HD
+http://ky-iptv.com:80/DAVMR31/44991177/220512.ts
+#EXTINF:-1 tvg-id="beinsports2.us" tvg-name="USA BeIN Sports 2" tvg-logo="http://23.227.147.172:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",USA| BeINSports 2
+http://ky-iptv.com:80/DAVMR31/44991177/220396.ts
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA BeIN Sports 4" tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",USA| BeINSports 4
+http://ky-iptv.com:80/DAVMR31/44991177/220397.ts
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="USA BeIN SPORTS 5 HD" tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",USA| BeINSPORTS 5 HD
+http://ky-iptv.com:80/DAVMR31/44991177/220508.ts
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="USA BeIN Sports 6" tvg-logo="http://23.227.147.172:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",USA| BeINSports 6
+http://ky-iptv.com:80/DAVMR31/44991177/220398.ts
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="USA BeIN Sports 7" tvg-logo="http://23.227.147.172:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",USA| BeINSports 7
+http://ky-iptv.com:80/DAVMR31/44991177/220399.ts
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",USA| BeINSports LaLiga
+http://ky-iptv.com:80/DAVMR31/44991177/220401.ts
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="USA beIN SPORTS enEspanol" tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",USA| beINSPORTS enEspanol
+http://ky-iptv.com:80/DAVMR31/44991177/220503.ts
+#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="USA Bein Sports Xtra" tvg-logo="http://181.233.124.64:80/images/b161e56efc9abdb9a3b8ead981af23b0.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",USA| BeinSports Xtra
+http://ky-iptv.com:80/DAVMR31/44991177/1503405.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports News HD" tvg-logo="http://23.227.147.172:80/images/6092fc787c147751430ccd7c69c432e7.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",AR: beINSports News HD
+http://ky-iptv.com:80/DAVMR31/44991177/515996.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports HD" tvg-logo="http://23.227.147.172:80/images/af318b5e634ad7206263a37618db30d4.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",AR: beINSports HD
+http://ky-iptv.com:80/DAVMR31/44991177/515995.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 FHD" tvg-logo="http://181.233.124.64:80/images/ca81a1aeb937fdc1464879d68b29d971.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",AR: beINSports 1 FHD
+http://ky-iptv.com:80/DAVMR31/44991177/515957.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 FHD" tvg-logo="http://23.227.147.172:80/images/b16e99a30d8e8367720eeb1c19601e6a.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",AR: beINSports 2 FHD
+http://ky-iptv.com:80/DAVMR31/44991177/515959.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 FHD" tvg-logo="http://181.233.124.64:80/images/684b5b9acd8ab4d2f942198e205a3b68.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",AR: beINSports 3 FHD
+http://ky-iptv.com:80/DAVMR31/44991177/515962.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 FHD" tvg-logo="http://181.233.124.64:80/images/badb3b94e26db066a8a78b989ddefaac.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",AR: beINSports 4 FHD
+http://ky-iptv.com:80/DAVMR31/44991177/515964.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 FHD" tvg-logo="http://23.227.147.172:80/images/da190ec5b532bbd9b8ada22521bf09c5.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",AR: beINSports 5 FHD
+http://ky-iptv.com:80/DAVMR31/44991177/515966.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 FHD" tvg-logo="http://23.227.147.172:80/images/46019e03e56f53c12cfb13d6820d525c.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",AR: beINSports 6 FHD
+http://ky-iptv.com:80/DAVMR31/44991177/515967.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 FHD" tvg-logo="http://23.227.147.172:80/images/5934575c75e31abb4688b546e49f8f9d.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",AR: beINSports 7 FHD
+http://ky-iptv.com:80/DAVMR31/44991177/515968.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 8" tvg-logo="http://23.227.147.172:80/images/8eeed1322ac97aa35e045147ae851f25.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",AR: beINSports 8
+http://ky-iptv.com:80/DAVMR31/44991177/515973.ts
+
+
+
+
+
 #EXTINF:-1 tvg-id="US: BEIN SPORTS" tvg-name="USA Bein Sports UHD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SHAREEXT@ ESPN & BEIN SPORTS",USA: Bein Sports UHD
 http://supersonictv.live:8080/688223/944008/22187
 #EXTINF:-1 tvg-id="US: BEIN SPORT USA" tvg-name="USA BeIN Sports 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SHAREEXT@ ESPN & BEIN SPORTS",USA: BeIN Sports 2
