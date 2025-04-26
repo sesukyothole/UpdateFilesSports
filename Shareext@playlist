@@ -1071,7 +1071,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vis/sc1.php?id=114
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
 #EXTINF:-1 tvg-id="MNCSports3.id" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3 (ott.navigator)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
@@ -1184,9 +1184,9 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165105
 #EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID: SpoTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298506
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID: MNC Sports
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",TRUE PREMIER 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157589
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID: MNC Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",TRUE PREMIER 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298548
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",ID: beIN Sports 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/295289
