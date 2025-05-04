@@ -104,11 +104,8 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="ShareExt@Relax", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="ShareExt@Relax",Indosiar (vip)
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="ShareExt@Relax",Indosiar (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
-#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",INDOSIAR_HD_bnet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://my.bianet.es/Folysiliti/Indosiar-HD.m3u8
 #EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",INDOSIAR_HD_3
 http://iptvtree.net:8080/F25093/29838750/162138
 #EXTINF:-1 tvg-logo="https://iili.io/2h01fDJ.png" group-title="ShareExt@Relax",INDOSIAR BRI LIGA 1
@@ -132,8 +129,6 @@ http://opplex.tv:8080/live/mother/mother/350972.ts
 http://xtv.ooo:8080/live/213112/213112/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xtv.12)
 http://xtv.ooo:8080/live/danyear12/am809100/350972.ts
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx)
-http://opplex.tv:8080/live/starmpk/mpk1234/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR_HD(xtv)
 http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtvJK)
@@ -162,15 +157,15 @@ http://xtv.ooo:8080/live/danyear12/am809100/350973.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",GTV (XTV)
 http://xtv.ooo:8080/live/danyear12/am809100/350954.ts
 
-#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="ShareExt@Relax",Trans7 (vip)
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="ShareExt@Relax",Trans7 (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2705.ts
-#EXTINF:-1 tvg-id="TransTV. MACAN" tvg-name="Trans Tv" tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="ShareExt@Relax",Trans Tv (vip)
+#EXTINF:-1 tvg-id="TransTV. MACAN" tvg-name="Trans Tv" tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="ShareExt@Relax",Trans Tv (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2704.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="ShareExt@Relax",RCTI (vip)
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="ShareExt@Relax",RCTI (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2701.ts
-#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="ShareExt@Relax",MNCTV (vip)
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="ShareExt@Relax",MNCTV (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2700.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="ShareExt@Relax",SCTV (vip)
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="ShareExt@Relax",SCTV (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2699.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SCTV(indihome)
@@ -240,99 +235,6 @@ https://7pal.short.gy/skspmaine
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@Relax",SkySports Premier League
 https://7pal.short.gy/ssportspl
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播01
-http://61.160.112.102:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播02
-http://61.160.112.102:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播03
-http://61.160.112.102:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播04
-http://61.160.112.102:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播05
-http://61.160.112.102:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播06
-http://61.160.112.102:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播07
-http://61.160.112.102:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播08
-http://61.160.112.102:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播09
-http://61.160.112.102:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播10
-http://61.160.112.102:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播11
-http://61.160.112.102:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播12
-http://61.160.112.102:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播13
-http://61.160.112.102:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播14
-http://61.160.112.102:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播15
-http://61.160.112.102:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播16
-http://61.160.112.102:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播17
-http://61.160.112.102:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播18
-http://61.160.112.102:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播19
-http://61.160.112.102:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播20
-http://61.160.112.102:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播21
-http://61.160.112.102:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播22
-http://61.160.112.102:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播23
-http://61.160.112.102:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播24
-http://61.160.112.102:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播25
-http://61.160.112.102:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播26
-http://61.160.112.102:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播27
-http://61.160.112.102:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播28
-http://61.160.112.102:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播29
-http://61.160.112.102:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播30
-http://61.160.112.102:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播31
-http://61.160.112.102:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播32
-http://61.160.112.102:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播33
-http://61.160.112.102:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播34
-http://61.160.112.102:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播35
-http://61.160.112.102:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播36
-http://61.160.112.102:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播37
-http://61.160.112.102:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播38
-http://61.160.112.102:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播39
-http://61.160.112.102:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播40
-http://61.160.112.102:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播41
-http://61.160.112.102:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播42
-http://61.160.112.102:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播43
-http://61.160.112.102:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播44
-http://61.160.112.102:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播45
-http://61.160.112.102:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
 
 
 
@@ -812,131 +714,132 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", TW: Now HK Premier Sports 1
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391046.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391046.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", TW: Now HK Premier Sports 2
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391047.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391047.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", TW: Now HK Premier Sports 3
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391048.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391048.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", TW: Now HK Premier Sports 4
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391049.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391049.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", TW: Now HK Premier Sports 5
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391050.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391050.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", TW: Now HK Premier Sports 6
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391051.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391051.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", TW: Now HK Premier Sports 7
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391052.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391052.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", TW: Now HK Premier Sports 8
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391053.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391053.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", MY: Astro SuperSport 1 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391035.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391035.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", MY: Astro SuperSport 2 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391036.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391036.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", MY: Astro SuperSport 3 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391037.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391037.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", MY: Astro SuperSport 4 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391038.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391038.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", MY: Astro SuperSport 5 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2276084.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2276084.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AUS: Optus Sport 1
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391039.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391039.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AUS: Optus Sport 2
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391040.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391040.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AUS: Optus Sport 3
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391041.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391041.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AUS: Optus Sport 4
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391042.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391042.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AUS: Optus Sport 5
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391043.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391043.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AUS: Optus Sport 7
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1391045.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1391045.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: Premier Sports 1 FHD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/229003.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/229003.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: Premier Sports 2
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2863935.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2863935.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: DAZN 1
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2889145.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2889145.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: TNT Sports 1
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1846762.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1846762.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: TNT Sports 2
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1846763.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1846763.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: TNT Sports 3
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1846764.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1846764.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: TNT Sports 4
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2274006.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2274006.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: BT SPORTS EXTRA 1 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1846767.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1846767.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", Carib: CSport
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2830204.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2830204.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", Carib: CSport 2
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688460.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688460.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: Eurosport 1 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1846756.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1846756.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: Eurosport 2 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1847082.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1847082.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: Sky Sports Main Events
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1847084.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/184708.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: Sky Sports Football
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1846775.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1846775.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: Sky Sports Action
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1846771.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1846771.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: Sky Sports Premier League
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1821337.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1821337.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", UK: Sky Sports MIX
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1847433.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1847433.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 1
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688447.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688447.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 2
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688448.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688448.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 3
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688449.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688449.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 4
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688450.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688450.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 5
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688451.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688451.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 6
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688452.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688452.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 7
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688453.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688453.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 8
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688454.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688454.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 9
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688455.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688455.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 10
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688456.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688456.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", SG: HubPremier 11
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2688457.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/2688457.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", ARB: SSC1 SD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1575087.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1575087.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", ARB: SSC2 4K
 http://ky-iptv.com:80/MsLady2024/2024MsLady/1575074.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", ARB: SSC3 4K
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1575075.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1575075.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", ARB: SSC4 4K
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1575076.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1575076.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", ARB: SSC5 4K
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1575077.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1575077.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", ARB: SSC6 SD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1575089.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1575089.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", ARB: SSC7 SD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1575090.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/1575090.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AR: beIN Sports 1 FHD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/515957.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/515957.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AR: beIN Sports 2 FHD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/515959.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/515959.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AR: beIN Sports 3 FHD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/515962.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/515962.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AR: beIN Sports 4 FHD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/515964.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/515964.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AR: beIN Sports 5 FHD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/515966.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/515966.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AR: beIN Sports 6 FHD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/515967.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/515967.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AR: beIN Sports 7 FHD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/515968.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/515968.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AR: beIN Sports 8
-http://ky-iptv.com:80/MsLady2024/2024MsLady/515973.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/515973.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ EPL || SPORTS", AR: beIN Sports HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/515995.ts
+http://ky-iptv.com:80/live/DAVMR31/44991177/515995.ts
+
 
 
 
@@ -1318,14 +1221,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro Arena 1•
-http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro Arena 2•
-http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Arena Bola 1•
-http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Arena Bola 2•
-http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY: ARENA
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157485
@@ -1377,33 +1272,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/82628
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16619
 #EXTINF:-1 tvg-id="" tvg-name="IN: Willow" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="SHAREEXT@India ➾ Sports",IN: Willow
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165776
-
-#EXTINF:-1 tvg-id="" tvg-name="[IN] SONY TEN 1" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN] SONY TEN 1
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85647
-#EXTINF:-1 tvg-id="" tvg-name="[IN] SONY TEN 2" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN] SONY TEN 2
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85648
-#EXTINF:-1 tvg-id="" tvg-name="[IN] SONY SIX HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN] SONY SIX HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85644
-#EXTINF:-1 tvg-id="" tvg-name="[IN] SONY ESPN HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN] SONY ESPN HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85645
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Willow Cricket" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN] Willow Cricket
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85650
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Willow Cricket Extra" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN] Willow Cricket Extra
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85651
-#EXTINF:-1 tvg-id="" tvg-name="[IN] SONY SIX HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN] SONY SIX HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85644
-#EXTINF:-1 tvg-id="" tvg-name="[IN] SONY ESPN HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN] SONY ESPN HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85645
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR SPORTS 1 FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN]  IN STAR SPORTS 1 FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85564
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR SPORTS 1 FHD HINDI" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN]  IN STAR SPORTS 1 FHD HINDI
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85565
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR SPORTS 2 FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN]  IN STAR SPORTS 2 FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85566
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR SPORTS SELECT 2 HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN]  IN STAR SPORTS SELECT 2 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85567
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  STAR SPORTS 3" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",[IN]  STAR SPORTS 3
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85652
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",MAO_TV_HD(cloud)
 http://tv.cloudcdn.me:80/live.ts?channelId=292&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -1562,53 +1430,6 @@ http://supersonictv.live:8080/227058/272105/86883
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S PSL FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86862
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Premier League FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86863
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Grandstand FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86864
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Variety 1 FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86865
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Variety 2 FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86866
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Variety 3 FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86867
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Variety 4 FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86868
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Football FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86869
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Action FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86870
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Rugby FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86871
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Cricket FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86872
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Blitz FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86873
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Máximo 1 FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86874
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Golf FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86875
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Tennis FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86876
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Play FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86877
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S WWE FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86878
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Motorsport
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86879
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Premier League backup
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86880
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Premier League backup 02
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86881
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Premier League backup 03
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86882
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Premier League backup 04
-http://supersonictv.live:8080/SLIM23/SARASOTA14/86883
-
-
-
 
 #EXTINF:-1 tvg-id="SS Rugby" tvg-name="SUPERSPORT RUGBY HD" tvg-logo="http://ktv.im:8080/images/29c757d7d560566541c6267953fb6c6d.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORT RUGBY HD 
 http://ktv.im:8080/fullpack15months354/213907856/21352 
@@ -1688,8 +1509,6 @@ http://ktv.im:8080/fullpack15months354/213907856/429318
 http://filex.tv:8080/aftab123/004090/302214
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", ID: Spotv 2
 http://filex.tv:8080/aftab123/004090/302215
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Ph: ONE Sport
-http://supersonictv.live:8080/Vanilla/3771CFord/85973
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", ID: Sportstar
 http://filex.tv:8080/Home329/Sohailhome/302275
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", ID: Sportstar 2
@@ -1814,26 +1633,15 @@ http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="ShareExt@PREMIUM✓SPORTS", TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
 
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-id="" tvg-logo="https://iili.io/JV1byLF.png",TNT SPORT 1 (A)
-http://extraott.com:80/live/9708461610/1164158489/13780.ts
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-id="" tvg-logo="https://iili.io/JV1mJ1a.png",TNT SPORT 2 (A)
-http://extraott.com:80/live/9708461610/1164158489/13779.ts
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-id="" tvg-logo="https://iili.io/JV1mdrJ.png",TNT SPORT 3 (A)
-http://extraott.com:80/live/9708461610/1164158489/13778.ts
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-id="" tvg-logo="https://iili.io/JV1m3dv.png",TNT SPORT 4 (A)
-http://extraott.com:80/live/9708461610/1164158489/153713.ts
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-id="" tvg-logo="https://iili.io/JV1m3dv.png",TNT SPORT 5 (A)
-http://extraott.com:80/live/9708461610/1164158489/62800.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X8I591M.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT Sports 1 (B)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X8I591M.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT Sports 1 
 http://exm3u.extraott.com:900/live/1103581436/4099381829/153714.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SzOGiMM.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT Sports 2 (B)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SzOGiMM.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT Sports 2 
 http://exm3u.extraott.com:900/live/1103581436/4099381829/153716.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sgGRQQu.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT Sports 3 (B)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgGRQQu.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT Sports 3
 http://exm3u.extraott.com:900/live/1103581436/4099381829/153718.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C7BnCSV.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT Sports 4 (B)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C7BnCSV.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT Sports 4 
 http://exm3u.extraott.com:900/live/1103581436/4099381829/13716.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WSJVdE.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT SPORTS 5 (B)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WSJVdE.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT SPORTS 5 
 http://exm3u.extraott.com:900/live/1103581436/4099381829/62800.ts
 #EXTINF:-1 tvg-ID="" tvg-name=" VARIETY 1 HD" tvg-logo="https://img.logo-cdn.cc/supersportvariety1.png" group-title="ShareExt@PREMIUM✓SPORTS", SS VARIETY 1 HD
 http://exm3u.extraott.com:900/live/1103581436/4099381829/159883.ts
@@ -2018,46 +1826,6 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", ..Esportes Brasília HD!!
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8|user-agent=Shareext/2.2.1
 
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Band Sports FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] Band Sports FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84942
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Combate FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] Combate FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84953
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN 2 FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] ESPN 2 FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84978
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Brasil FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] ESPN Brasil FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84979
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Extra FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] ESPN Extra FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84980
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] ESPN FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84981
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sport HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] Fox Sport HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84991
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports 2 FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] Fox Sports 2 FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84992
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] Fox Sports FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84993
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere Clubes FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] Premiere Clubes FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85068
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SporTV 3 FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] SporTV 3 FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85094
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SporTV FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] SporTV FHD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85095
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 1 SD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] TNT SPORTS 1 SD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85311
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 2 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] TNT SPORTS 2 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85312
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 3 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] TNT SPORTS 3 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85314
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 4 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] TNT SPORTS 4 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85316
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 5 SD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] TNT SPORTS 5 SD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85319
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 6 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] TNT SPORTS 6 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85320
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 7 SD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] TNT SPORTS 7 SD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85323
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 8 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",[BR] TNT SPORTS 8 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/85324
 
 
 
@@ -2171,43 +1939,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[NL] ZIGGO SPORT Voetbal HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] ZIGGO SPORT Voetbal HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84408
-#EXTINF:-1 tvg-id="" tvg-name="[NL] Ziggo Sport Select HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] Ziggo Sport Select HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84409
-#EXTINF:-1 tvg-id="" tvg-name="[NL] Ziggo Sport Racing HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] Ziggo Sport Racing HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84410
-#EXTINF:-1 tvg-id="" tvg-name="[NL] Ziggo Sport HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] Ziggo Sport HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84411
-#EXTINF:-1 tvg-id="" tvg-name="[NL] ZIGGO SPORT Golf HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] ZIGGO SPORT Golf HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84412
-#EXTINF:-1 tvg-id="" tvg-name="[NL] Ziggo Sport Extra HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] Ziggo Sport Extra HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84413
-#EXTINF:-1 tvg-id="" tvg-name="[NL] Ziggo Sport Docu HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] Ziggo Sport Docu HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84414
-#EXTINF:-1 tvg-id="" tvg-name="[NL] Eurosport 1 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] Eurosport 1 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84482
-#EXTINF:-1 tvg-id="" tvg-name="[NL] Eurosport 2 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] Eurosport 2 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84481
-#EXTINF:-1 tvg-id="" tvg-name="[NL] Extreme Sports Channel" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] Extreme Sports Channel
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84480
-#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX Sports 1 HD Eredivisie" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] FOX Sports 1 HD Eredivisie
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84473
-#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX Sports 2 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] FOX Sports 2 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84472
-#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX Sports 3 HD Eredivisie" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] FOX Sports 3 HD Eredivisie
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84471
-#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX Sports 4 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] FOX Sports 4 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84470
-#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX Sports 5 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] FOX Sports 5 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84469
-#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX Sports 6 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" -title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] FOX Sports 6 HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84468
-#EXTINF:-1 tvg-id="" tvg-name="[NL] Horse & Country TV HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS",[NL] Horse & Country TV HD
-http://supersonictv.live:8080/SLIM23/SARASOTA14/84466
-
-
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SKYSPORTS_1
 http://exm3u.extraott.com:900/live/1103581436/4099381829/710948.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SKYSPORTS_2
@@ -2271,144 +2002,6 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WWE_TV.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",WWE TV
 https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 1 (MATCH TIME)
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121948
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121949
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 3
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121950
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 4
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121951
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 5
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121952
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 6 (MATCH TIME)
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121953
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 7 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121954
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 8 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121955
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 9 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121956
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", ERT SPORTS
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121969
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", ERT SPORTS 2 FHD (LOCALE)
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121970
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", EUROSPORT 2 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121973
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", NOVA SPORT 1 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122024
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", NOVA SPORT 2 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122025
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", NOVA SPORT 3 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122026
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", NOVA SPORT 4 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122027
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", NOVA SPORT 5 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122028
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", NOVA SPORTS PRIME [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122029
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@HUNGARIA ➾  SPORTS", DIGI SPORT 1
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122084
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@HUNGARIA ➾  SPORTS", DIGI SPORT 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122085
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@HUNGARIA ➾  SPORTS", DIGI SPORT 3
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122086
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@HUNGARIA ➾  SPORTS", EUROSPORT 1
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122094
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@HUNGARIA ➾  SPORTS", EUROSPORT 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122095
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@HUNGARIA ➾  SPORTS", EXTREME SPORTS [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122096
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@HUNGARIA ➾  SPORTS", SPORT 1
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122140
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@HUNGARIA ➾  SPORTS", SPORT 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122141
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", DIGI SPORT 1
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122193
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", DIGI SPORT 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122194
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", DIGI SPORT 3
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122195
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", DIGI SPORT 4
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122196
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", EUROSPORT 1
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122210
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", EUROSPORT 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122211
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", ORANGE SPORT 1
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122248
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", ORANGE SPORT 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122249
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", ORANGE SPORT 3
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122250
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", ORANGE SPORT 4
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122251
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", PRIMA SPORT
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122253
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", PRIMA SPORT 2 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122254
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ROMANIA ➾  SPORTS", Auto Motor Sport
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122303
-
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", DEPORTV
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122332
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", DIRECTV SPORTS  [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122333
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", DIRECTV SPORTS +  [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122334
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122342
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122343
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN 3
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122344
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN PREMIUM
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122345
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN+
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122346
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", FOX SPORTS 1
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122350
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", FOX SPORTS 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122351
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", FOX SPORTS 3
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122352
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", FOX SPORTS PREMIUM
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122353
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", GOLF CHANNEL
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122356
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", PX SPORTS  [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122379
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", TNT SPORTS
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122394
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", TYC SPORTS
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122400
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", Tyc sports Internacional  [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122401
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN Extra
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122406
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@COLOMBIA ➾  SPORTS", DIRECTV SPORTS +  [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122425
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@COLOMBIA ➾  SPORTS", DIRECTV SPORTS 2  [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122426
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@COLOMBIA ➾  SPORTS", ESPN 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122428
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@COLOMBIA ➾  SPORTS", ESPN 3
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122429
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@COLOMBIA ➾  SPORTS", FOX Sports 2  [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122430
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@COLOMBIA ➾  SPORTS", WIN SPORTS
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122447
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@COLOMBIA ➾  SPORTS", WIN SPORTS PLUS
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122448
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",Adrenalina Sports Network
 http://iptvtree.net:8080/F25093/29838750/290478
@@ -2452,32 +2045,6 @@ http://iptvtree.net:8080/F25093/29838750/306641
 http://iptvtree.net:8080/F25093/29838750/306777
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",TVC Deportes
 http://iptvtree.net:8080/F25093/29838750/9075
-
-
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", EUROSPORT NORGE
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122589
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", EUROSPORT PLUSS 1
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122590
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", EUROSPORT PLUSS 2 [Live During Events Only]
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122591
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", TV2 SPORT 1
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122617
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", TV2 SPORT 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122618
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", TV2 SPORT PREMIUM 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122619
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", VIASAT MOTOR
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122625
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", VIASAT SPORT
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122626
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", V SPORT 1
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122628
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", V SPORT 2
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122629
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NORWEGIA ➾  SPORTS", V SPORT 3
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122630
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/da06af9e86dd680c4aed3671c915a745.png" group-title="SHAREEXT@ Sweden ➾ Sports", V Sport Football
@@ -3074,102 +2641,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304776
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304777
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Sports 1 720p
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/351541
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Sports 1 HD [VIP]
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/98925
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Sports 2 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/35730
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Sports 3 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6097
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Sports 4 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6098
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Sports 5 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/125936
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Sports Max 1
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6099
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Sports Max 2
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6100
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Connect 1 |Mac Saati|
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/137710
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Connect 2 |Mac Saati|
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/137711
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", beIN Connect 3 |Mac Saati|
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/137712
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Spor Smart 1 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/121246
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Spor Smart 2 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/113272
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", D-Smart EuroSport 1
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6106
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", D-Smart EuroSport 2
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6107
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", S Sport 1 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/115598
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", S Sport 2 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6105
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", S Sport+1 Mac Saati
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/137713
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", S Sport+2 Mac Saati
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/137714
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", S Sport+3 Mac Saati
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/137715
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", S Sport+4 Mac Saati
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/137716
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", S Sport+5 Mac Saati
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/137717
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tivibu Spor FHD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6101
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tivibu Spor 1 FHD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6102
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tivibu Spor 2 FHD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6103
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tivibu Spor 3 FHD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/113254
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tivibu Spor 4 FHD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/115600
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Exxen Sport 1 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/452750
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Exxen Sport 2 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/452752
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Exxen Sport 3 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/452753
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Exxen Sport 4 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/452754
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Exxen Sport 5 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/452755
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tabii Spor 1 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/454312
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tabii Spor 2 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/454316
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tabii Spor 3 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/454318
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tabii Spor 4 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/454320
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tabii Spor 5 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/454322
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Tabii Spor 6 HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/454324
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Trt Spor HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6109
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", TRT Spor Yıldız
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/353402
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Nba TV HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6111
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", A Spor HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6113
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", FB TV
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6114
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", TJK TV HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6116
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", TAY TV HD
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6117
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Max Fight TV
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/371591
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", Sports TV
-http://superiptv.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/20772
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="[ES] EUROSPORT 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="SHAREEXT@ ESPANA ▎SPORT", EUROSPORT 1
 http://supersonictv.live:8080/227058/272105/85900
@@ -3402,22 +2873,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ ISRAEL || SPORTS",IL: Yes Sport 5 Stars HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115104
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ ISRAEL || SPORTS", SPORT 1 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1105540.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ ISRAEL || SPORTS", SPORT 2 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1105541.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ ISRAEL || SPORTS", SPORT 3 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1105542.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ ISRAEL || SPORTS", SPORT 4 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1105543.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ ISRAEL || SPORTS", SPORT 5 HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/2337419.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ ISRAEL || SPORTS", SPORT 5 LIVE HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1105545.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ ISRAEL || SPORTS", SPORT 5 PLUS HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1105547.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ ISRAEL || SPORTS", SPORT 5 GOLD HD
-http://ky-iptv.com:80/MsLady2024/2024MsLady/1105549.ts
 
 
 
@@ -3465,92 +2920,12 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ESPN 1 
-http://89.117.146.57:80/televall/YbVVqpeaWU/92.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ESPN 2:ECU
-http://89.117.146.57:80/televall/YbVVqpeaWU/93.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ESPN 2 LA
-http://89.117.146.57:80/televall/YbVVqpeaWU/94.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ESPN 3 LA
-http://89.117.146.57:80/televall/YbVVqpeaWU/95.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", FOX SPORTS 1 MX
-http://89.117.146.57:80/televall/YbVVqpeaWU/96.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", FOX SPORTS 2 MX
-http://89.117.146.57:80/televall/YbVVqpeaWU/97.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", FOX SPORTS 3 MX
-http://89.117.146.57:80/televall/YbVVqpeaWU/98.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", FOX SPORTS 2 LA
-http://89.117.146.57:80/televall/YbVVqpeaWU/99.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", FOX SPORTS 3 LA
-http://89.117.146.57:80/televall/YbVVqpeaWU/100.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ESPN PREMIUM
-http://89.117.146.57:80/televall/YbVVqpeaWU/101.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", TNT SPORTS LA
-http://89.117.146.57:80/televall/YbVVqpeaWU/102.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", TNT SPORTS PREMIUM
-http://89.117.146.57:80/televall/YbVVqpeaWU/103.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", TNT SPORTS PREMIUM LA
-http://89.117.146.57:80/televall/YbVVqpeaWU/104.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", CDO
-http://89.117.146.57:80/televall/YbVVqpeaWU/105.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", CDO 2
-http://89.117.146.57:80/televall/YbVVqpeaWU/106.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", CLARO SPORTS
-http://89.117.146.57:80/televall/YbVVqpeaWU/107.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", DIRECTV 1
-http://89.117.146.57:80/televall/YbVVqpeaWU/108.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", DIRECTV 2
-http://89.117.146.57:80/televall/YbVVqpeaWU/109.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", GOLTV :PE
-http://89.117.146.57:80/televall/YbVVqpeaWU/110.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", GOLTV :ECU
-http://89.117.146.57:80/televall/YbVVqpeaWU/111.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ECDF
-http://89.117.146.57:80/televall/YbVVqpeaWU/112.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", WIN SPORTS
-http://89.117.146.57:80/televall/YbVVqpeaWU/113.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ESPN 1 MX
-http://89.117.146.57:80/televall/YbVVqpeaWU/114.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ESPN 2 MX
-http://89.117.146.57:80/televall/YbVVqpeaWU/115.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ESPN 3 MX
-http://89.117.146.57:80/televall/YbVVqpeaWU/116.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", TVC DEPORTES
-http://89.117.146.57:80/televall/YbVVqpeaWU/117.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", AYM SPORTS
-http://89.117.146.57:80/televall/YbVVqpeaWU/118.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", LAS SPORTS
-http://89.117.146.57:80/televall/YbVVqpeaWU/119.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ADRENALINA SPORTS
-http://89.117.146.57:80/televall/YbVVqpeaWU/120.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", TUDN US
-http://89.117.146.57:80/televall/YbVVqpeaWU/121.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", BEIN SPORTS XTRA Ñ
-http://89.117.146.57:80/televall/YbVVqpeaWU/122.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", ESPN DEPORTES
-http://89.117.146.57:80/televall/YbVVqpeaWU/123.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", FOX DEPORTES
-http://89.117.146.57:80/televall/YbVVqpeaWU/124.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ LATINO || SPORTS", AZTECA 7
-http://89.117.146.57:80/televall/YbVVqpeaWU/125.ts
-
-
-
-
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",AYM.SPORTS 
 https://aym-as.otteravision.com/aym/as/as.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",INTERNETV.DEPORTES 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",CANAL.ONCE 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",CBS.SPORTS
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",US:FS 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",US:FS 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",CANAL+SPORT HD
 http://185.236.229.62:9981/play/a04c
@@ -3588,12 +2963,6 @@ http://185.236.229.62:9981/play/a06l
 http://185.236.229.62:9981/play/a07n
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Polsat Sport News HD
 http://185.236.229.62:9981/play/a06m
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Polsat Sport Premium 1
-http://185.236.229.62:9981/play/a03r
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Polsat Sport Premium 2
-http://185.236.229.62:9981/play/a03s
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Sportklub HD
-http://185.236.229.62:9981/play/a02k
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",TVP Sport HD
 http://185.236.229.62:9981/play/a05l
 #EXTINF:-1 tvg-id="EsporteBrasilia.br" tvg-name="Esportes Brasília" tvg-chno="023" tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="SHAREEXT@Canais de Esportes", Esportes Brasília HD
@@ -3601,6 +2970,100 @@ https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.de" tvg-chno="109" tvg-logo="https://m.media-amazon.com/images/I/51OvgIyfLDL.png" group-title="SHAREEXT@Canais de Esportes", Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播01
+http://61.160.112.102:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播02
+http://61.160.112.102:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播03
+http://61.160.112.102:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播04
+http://61.160.112.102:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播05
+http://61.160.112.102:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播06
+http://61.160.112.102:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播07
+http://61.160.112.102:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播08
+http://61.160.112.102:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播09
+http://61.160.112.102:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播10
+http://61.160.112.102:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播11
+http://61.160.112.102:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播12
+http://61.160.112.102:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播13
+http://61.160.112.102:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播14
+http://61.160.112.102:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播15
+http://61.160.112.102:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播16
+http://61.160.112.102:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播17
+http://61.160.112.102:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播18
+http://61.160.112.102:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播19
+http://61.160.112.102:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播20
+http://61.160.112.102:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播21
+http://61.160.112.102:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播22
+http://61.160.112.102:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播23
+http://61.160.112.102:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播24
+http://61.160.112.102:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播25
+http://61.160.112.102:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播26
+http://61.160.112.102:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播27
+http://61.160.112.102:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播28
+http://61.160.112.102:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播29
+http://61.160.112.102:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播30
+http://61.160.112.102:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播31
+http://61.160.112.102:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播32
+http://61.160.112.102:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播33
+http://61.160.112.102:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播34
+http://61.160.112.102:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播35
+http://61.160.112.102:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播36
+http://61.160.112.102:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播37
+http://61.160.112.102:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播38
+http://61.160.112.102:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播39
+http://61.160.112.102:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播40
+http://61.160.112.102:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播41
+http://61.160.112.102:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播42
+http://61.160.112.102:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播43
+http://61.160.112.102:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播44
+http://61.160.112.102:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ LIVE•FIFA || 赛事播", 赛事播45
+http://61.160.112.102:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+
 
 
 #EXTINF:-1 group-title="SHAREEXT@LIVE||SPORTS" tvg-logo="https://i.postimg.cc/jqpbC82v/mu-tv2.png",MU TV 2
