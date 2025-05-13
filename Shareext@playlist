@@ -61,6 +61,10 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(4knew)
 http://line.4knew.pro:80/live/310533129D4368C/09D46A497281017/1505849.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="ShareExt@Relax",INDOSIAR(queen)
+https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/ind1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="ShareExt@Relax",Indosiar(opx..)
+http://opplex.tv:8080/live/mohsin655/4969292/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx.2)
 http://opplex.tv:8080/live/mother/mother/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xtv.jw)
@@ -573,6 +577,99 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/wou
 https://a201aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ssc100.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ssc200.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ssc300.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ssc400.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ssc500.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT EXTRA 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/sscextra100.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT EXTRA 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/sscextra200.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT EXTRA 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/sscextra300.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7mHMWk2S-ZMWFmtzZKiL0yjvfE05yLOUge2Rz8SiUiZ5nz-I8tetqs5lavGk7rfpQ0I&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabisport100.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7mHMWk2S-ZMWFmtzZKiL0yjvfE05yLOUge2Rz8SiUiZ5nz-I8tetqs5lavGk7rfpQ0I&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabisport200.m3u8
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT ASIA 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabiasia100.m3u8
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT ASIA 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabiasia200.m3u8
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT PREMIUM 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabipremium100.m3u8
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT PREMIUM 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabipremium200.m3u8
+#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ALKASS SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/alkass100.m3u8
+#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ALKASS SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/alkass200.m3u8
+#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ALKASS SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/alkass300.m3u8
+#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ALKASS SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/alkass400.m3u8
+#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ALKASS SPORT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/alkass500.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBczGz9lHaEmZxhMeZGWjn3p-reeiR5l2WPdNucMfg7Lv_EFTgJ8fV-w&s=10" group-title="SHAREEXT@ ARABIAN || SPORTS", BAHRAIN SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/Bahrainsport1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGRZmxAO45TLWXhJWVSBLKX9j63HSCsBXdYrFYNCICumTsvTfmT5u1Fw&s=10" group-title="SHAREEXT@ ARABIAN || SPORTS", BAHRAIN SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/Bahrainsport2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGRZmxAO45TLWXhJWVSBLKX9j63HSCsBXdYrFYNCICumTsvTfmT5u1Fw&s=10" group-title="SHAREEXT@ ARABIAN || SPORTS", BAHRAIN SPORT 1 HD
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGRZmxAO45TLWXhJWVSBLKX9j63HSCsBXdYrFYNCICumTsvTfmT5u1Fw&s=10" group-title="SHAREEXT@ ARABIAN || SPORTS", BAHRAIN SPORT 2 HD
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI RACING 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubairacing100.m3u8
+#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI RACING 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubairacing200.m3u8
+#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI RACING 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubairacing300.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1764753516491362305/efft6mWi_200x200.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubaisport100.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1764753516491362305/efft6mWi_200x200.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubaisport200.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1764753516491362305/efft6mWi_200x200.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubaisport300.m3u8
+#EXTINF:-1 tvg-logo="https://internet-television.net/uploads/posts/2022-11/thumbs/al-iraqiya-sport.webp" group-title="SHAREEXT@ ARABIAN || SPORTS", IRAQIA SPORT 
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/iraqiasport00.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrj1sDvwRf9AwJMjAYV06dP1Pm7SJmbXnmpA&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", JORDANIA SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/jordansport00.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=01%2Fef4_yfjwoamdbmn.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", KSA SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ksasport100.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png" group-title="SHAREEXT@ ARABIAN || SPORTS", KSA SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ksasport200.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=01%2Fef4_yfjwoamdbmn.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", KSA SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ksasport300.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fkuwaitsport.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", KUWAIT SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/kuwaitsport00.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", LIBYA SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/libyasport100.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", LIBYA SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/libyasport200.m3u8
+#EXTINF:-1 tvg-logo="https://egytvs.com/wp-content/uploads/2017/02/nilesport.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", NILE SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/nilesport00.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fontimesports.gif" group-title="SHAREEXT@ ARABIAN || SPORTS", ONTIME SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ontimesport100.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fontimesports2.gif" group-title="SHAREEXT@ ARABIAN || SPORTS", ONTIME SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ontimesport200.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F877%2Fon-time-sports-2.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ONTIME SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ontimesport300.m3u8
+#EXTINF:-1 tvg-logo="https://sports.ptv.com.pk/user/assets/images/logosarchive/ptvsports2021.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", PAKISTAN SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/pakistansport00.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Starz_Logo2008.png" group-title="SHAREEXT@ ARABIAN || SPORTS", STARZ SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/starzsport00.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0FRSjeIWgNtDRaH2JrTewczFHi77DyiOl_Vg56akZcd7LplZrLBTFC4&s=10" group-title="SHAREEXT@ ARABIAN || SPORTS", VARZISH SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/varzishsport00.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1704037624917209088/YmyRUw2C_400x400.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", YAS SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/yass00.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fzamalek-tv.gif" group-title="SHAREEXT@ ARABIAN || SPORTS", ZAMALEK SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/zamaleksport00.m3u8
 
 
 
@@ -1102,6 +1199,155 @@ http://iptvtree.net:8080/F25093/29838750/245622
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="SHAREEXT@INDONESIA ➾  SPORTS",INDOSIAR(github)
+https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/ind1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Indosiar(opplex)
+http://opplex.tv:8080/mohsin655/4969292/350972.ts
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 1_mpd(ott)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
+#EXTVLCOPT:http-referrer=https://visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=112
+https://kingtvpremium.my.id/play/pision/index.mpd?id=112
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 2_mpd(ott) 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
+#EXTVLCOPT:http-referrer=https://visionplus.id/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=113
+https://kingtvpremium.my.id/play/pision/index.mpd?id=113
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",SoccerChannel_mpd(ott)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
+#EXTVLCOPT:http-referrer=https://visionplus.id/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=115
+https://kingtvpremium.my.id/play/pision/index.mpd?id=115
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", JUARA TV 1_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=17938
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=17938
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", JUARA TV 2_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=17939
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=17939
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-header_pDach_1661948923000&quality=70", NBA TV_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=6717
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=6717
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXRB7NOcAArnwuTxCKpHSbruupjWmKxYmvMeOiRrrNH4OH0h6b06b8LCAy&s=10", CORT MASTER 1_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=18249
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=18249
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXRB7NOcAArnwuTxCKpHSbruupjWmKxYmvMeOiRrrNH4OH0h6b06b8LCAy&s=10", CORT MASTER 2_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=18250
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=18250
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXRB7NOcAArnwuTxCKpHSbruupjWmKxYmvMeOiRrrNH4OH0h6b06b8LCAy&s=10", CORT MASTER 3_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=18252
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=18252
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXRB7NOcAArnwuTxCKpHSbruupjWmKxYmvMeOiRrrNH4OH0h6b06b8LCAy&s=10", CORT MASTER 4_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=18253
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=18253
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", EPL TV_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=9353
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=9353
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", EPL LIVE 1_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=17638
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=17638
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", EPL LIVE 2_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=17639
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=17639
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", EPL LIVE 3_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=17653
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=17653
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", CHAMPIONTV 1_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=6685
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=6685
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", CHAMPIONTV 2_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=6686
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=6686 
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", CHAMPIONTV 3_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=6786
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=6786
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", CHAMPIONTV 5_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=9182
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=9182
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", CHAMPIONTV 6_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=9183
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=9183
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", CHAMPION Golf 1_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=18189
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=18189
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", CHAMPION Golf 2_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=18190
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=18190
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5-lNyEEkkfsNYzGuO8j5FhE8Cp0YYj92ftATGPPpGkPaS8yE_UPKmLA&s=10", Spotv_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=17139
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=17139
+
+#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS"  tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg", Spotv 2_mpd(ott)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.sifalden1978.workers.dev/?id=17140
+https://mpd-vidio.sifalden1978.workers.dev/.mpd?id=17140
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 1 (MY)" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BEIN Sport 1 (xyz)
 https://link.zozotv.xyz:443/live/usez37/zxy921/384.ts
@@ -1373,6 +1619,42 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV~dens
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO ARENA 1(github) 
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroArena1.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlUzQEaqrarNmURWmDm8xGVzNQb3orQxQIg&s" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO ARENA 2(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroArena2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ARENA BOLA 1
+https://haoyunlai.serv00.net/Smartv.php?id=Bolaarena1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ARENA BOLA 2 
+https://haoyunlai.serv00.net/Smartv.php?id=Bolaarena2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO PREMIER LEAGUE(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS1.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO PREMIER LEAGUE 2(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS2.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO GRANDSTAND(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS3.m3u8 
+#EXTINF:-1 tvg-logo="https://www.tvmalaysia.live/images/astro-football-live-streaming-online.webp" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO FOOTBALL(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS4.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe00qVrak9d7t7Lxb-ADHBgmbr4FUP8ggr6g&usqp=CAU" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO BADMINTON(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroBadminton.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO PREMIER LEAGUE 1_BK(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB1.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO PREMIER LEAGUE 2_BK(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB2.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO GRANDSTAND BK(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB3.m3u8 
+#EXTINF:-1 tvg-logo="https://www.tvmalaysia.live/images/astro-football-live-streaming-online.webp" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO FOOTBALL BK(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe00qVrak9d7t7Lxb-ADHBgmbr4FUP8ggr6g&usqp=CAU" group-title="SHAREEXT@MALAYSIA ➾  SPORTS ", ASTRO BADMINTON BK(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroBadmintonB.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO CRICKET(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Astrocricket.m3u8
 
 
 
