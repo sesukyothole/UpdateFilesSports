@@ -48,8 +48,6 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="ShareExt@Relax",INDOSIAR(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="ShareExt@Relax",Indosiar (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
 #EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="ShareExt@Relax",INDOSIAR_HD_3
@@ -69,8 +67,6 @@ http://opplex.tv:8080/live/mohsin655/4969292/350972.ts
 http://opplex.tv:8080/live/mother/mother/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xtv.jw)
 http://xtv.ooo:8080/live/Jawad1994/03112371534/350972.ts
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xtv.12)
-http://xtv.ooo:8080/live/danyear12/am809100/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR_HD(xtv)
 http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtvJK)
@@ -83,26 +79,31 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",SCTV (XTV)
-http://xtv.ooo:8080/live/danyear12/am809100/351030.ts
+http://xtv.ooo:8080/live/mother/mother/351030.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",MOJI (XTV)
-http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
+http://xtv.ooo:8080/live/mother/mother/350997.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",RCTI (XTV)
-http://xtv.ooo:8080/live/danyear12/am809100/351023.ts
+http://xtv.ooo:8080/live/mother/mother/351023.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",MNCTV (XTV)
-http://xtv.ooo:8080/live/danyear12/am809100/350996.ts
+http://xtv.ooo:8080/live/mother/mother/350996.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",INEWS (XTV)
-http://xtv.ooo:8080/live/danyear12/am809100/350973.ts
+http://xtv.ooo:8080/live/mother/mother/350973.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",GTV (XTV)
-http://xtv.ooo:8080/live/danyear12/am809100/350954.ts
+http://xtv.ooo:8080/live/mother/mother/350954.ts
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="ShareExt@Relax",Trans7 (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2705.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="TransTV. MACAN" tvg-name="Trans Tv" tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="ShareExt@Relax",Trans Tv (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2704.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="ShareExt@Relax",RCTI (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2701.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="ShareExt@Relax",MNCTV (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2700.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="ShareExt@Relax",SCTV (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2699.ts
 
@@ -1133,46 +1134,6 @@ https://kingtvpremium.my.id/play/pision/index.mpd?id=113
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=115
 https://kingtvpremium.my.id/play/pision/index.mpd?id=115
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 1 (MY)" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BEIN Sport 1 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/384.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beIN Sport 2" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",beIN Sports 2 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/163.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="beIN Sports 3" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",beIN Sports 3 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/162.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",NOW SPORTS 1 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/836.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2" tvg-logo="https://i.ibb.co/M6Bv7DN/1684376046250.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",NOW SPORTS 2 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/837.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3" tvg-logo="https://i.ibb.co/KFSpRmt/1684376197363.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",NOW SPORTS 3 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/840.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/02RRn5F/tyrty.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Sporstar 1 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/164.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Champions 2" tvg-logo="https://i.ibb.co/25f0KrC/HFRR.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Sporstar 2 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/165.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BT Sport 1 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/173.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BT Sport 2 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/174.ts
-
 #EXTINF:-1 tvg-logo="https://hifight.it/wp-content/uploads/2021/11/hifight-600x600-1.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Hi-Fight Supersport
 http://49.0.64.96:8007/HIFIGHT
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YfQRjZs/Picsart-23-07-20-15-16-23-603.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", IMPACT! WRESTLING
@@ -1440,117 +1401,6 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Astro
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroBadmintonB.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO CRICKET(github)
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Astrocricket.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Arena (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/154.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="IMC" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Arena 2 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/400.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/h8Yh230/1677144706720.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Arena Bola (720p (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/791.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola (1080p)" tvg-logo="https://i.ibb.co/R2gSDzJ/1679052576497.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Arena Bola (1080p) (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/802.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 2" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Arena Bola 2 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/4557.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Arena Bola 2 (FHD) (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/792.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="EPL1" tvg-name="Premier League" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",PremierLeague (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/156.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="EPL1" tvg-name="Premier League (B)" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",PremierLeague (B) (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/568.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",PremierLeague 2 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/157.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2 (B)" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",PremierLeague 2 (B) (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/569.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Premier League 3" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",PremierLeague 3 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/2204.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Premier League 3 (B)" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",PremierLeague 3 (B) (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/2205.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Football" tvg-name="Football" tvg-logo="https://link.zozotv.xyz/pic/footballzozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Football (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/158.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Badminton" tvg-name="Badminton" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Badminton
-(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/155.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Badminton 2 ( Live only)" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Badminton 2 ( Live only)
-https://link.zozotv.xyz:443/live/usez37/zxy921/2342.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Sport Plus" tvg-logo="https://link.zozotv.xyz/pic/sportpluszozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Sport Plus
-https://link.zozotv.xyz:443/live/usez37/zxy921/482.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Granstand" tvg-name="Grandstand" tvg-logo="https://link.zozotv.xyz/pic/grandstandzozo.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Grandstand
-(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/570.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 1 (MY)" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",BEIN Sport 1 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/384.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 2 (My)" tvg-logo="https://i.ibb.co/XzKCv6K/BEINMAX.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",BEIN Sport 2 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/383.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="beIN Sports 3" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",beIN Sports 3 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/162.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",SPOTV (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/399.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Spotv 2 (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/555.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Golf" tvg-name="NBC Golf" tvg-logo="https://i.ibb.co/mHGzmxS/golf.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",NBC Golf (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/166.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",SUKAN RTM
-(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/153.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/wrGxc4V/euu.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Eurosport (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/328.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",NBA TV (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/167.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Fight Sport (xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/168.ts
 
 #EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",RTM Sports
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
