@@ -5,6 +5,15 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="ShareExt@Relax",HUB SPORTS 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="ShareExt@Relax",HUB SPORTS 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36303.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 4" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="ShareExt@Relax",HUB SPORTS 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="ShareExt@Relax",HUB SPORTS 5
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", ELTA.SPORTS.1 (tw) 愛爾達體育
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", ELTA.SPORTS.2 (tw) 愛爾達體育2
@@ -765,6 +774,10 @@ http://wanicelife.com:8880/D12m4389/60388773/2821
 #EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR039:BEIN SPORTS MAX 10 FHD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR039CinePermier.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",FR| BEINSPORTS MAX 10 FHD (EVENT ONLY)
 http://wanicelife.com:8880/D12m4389/60388773/2827
 
+
+
+
+ 
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",ID: beINSports 1
