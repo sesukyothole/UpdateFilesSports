@@ -763,7 +763,50 @@ http://wanicelife.com:8880/D12m4389/60388773/2827
 
 
  
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",UK: MUTV
+http://tvmate.icu:8080/69NpyV/884735/53717
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",UK: RACING 
+http://tvmate.icu:8080/69NpyV/884735/53741
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports Action" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",UK: SkySports Action
+http://tvmate.icu:8080/69NpyV/884735/53705
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK-Sky Sports Arena" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",UK: SkySports Arena
+http://tvmate.icu:8080/69NpyV/884735/35238
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",UK: SkySports F1 FHD 
+http://tvmate.icu:8080/69NpyV/884735/53704
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK Sky Sports Golf FHD" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",UK: SkySports Golf FHD 
+http://tvmate.icu:8080/69NpyV/884735/35240
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",UK: SkySports Main Event
+http://tvmate.icu:8080/69NpyV/884735/35243
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",UK: SkySports Mix FHD (D)
+http://tvmate.icu:8080/69NpyV/884735/53706
+#EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK-Sky Sports News" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",UK: SkySports News
+http://tvmate.icu:8080/69NpyV/884735/35241
+#EXTINF:-1 tvg-id="nbc.sports.network.us" tvg-name="US NBC Sports Network (F)" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",US: NBC Sports Network (F)
+http://tvmate.icu:8080/69NpyV/884735/46725
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE NETWORK" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",US: WWE NETWORK
+http://tvmate.icu:8080/69NpyV/884735/11645
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",US: CBS Sports Network HD 
+http://tvmate.icu:8080/69NpyV/884735/10454
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",US Fox Sports 1 
+http://tvmate.icu:8080/69NpyV/884735/1846
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US Fox Sports 2 (A)" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",US Fox Sports 2 (A)
+http://tvmate.icu:8080/69NpyV/884735/1847
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD)" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",US: ESPN 1 (HD) 
+http://tvmate.icu:8080/69NpyV/884735/9802
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US ESPN 2" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",US: ESPN 2 
+http://tvmate.icu:8080/69NpyV/884735/2210
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US ESPNU College Sports" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",US: ESPNU College Sports 
+http://tvmate.icu:8080/69NpyV/884735/10255
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="US Marquee Sports Network (HD) (A)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41WaYQ28QLL.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",US: Marquee Sports Network (HD) 
+http://tvmate.icu:8080/69NpyV/884735/13379
+#EXTINF:-1 tvg-id="mavtv.usa.us" tvg-name="US MAV TV (F)" tvg-logo="https://www.mavtv.com/assets/downloads/mavtv-color.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",US MAV TV (F)
+http://tvmate.icu:8080/69NpyV/884735/20977
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",USA: NBA TV
+http://tvmate.icu:8080/69NpyV/884735/20073
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA: NBC" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",USA: NBC
+http://tvmate.icu:8080/69NpyV/884735/46687
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel" tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" group-title="SHAREEXT@ WORLD_OF || SPORTS",US Golf Channel 
+http://tvmate.icu:8080/69NpyV/884735/9806
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",ID: beINSports 1
 http://iptvtree.net:8080/F25093/29838750/295289
