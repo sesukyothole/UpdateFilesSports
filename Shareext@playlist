@@ -1217,6 +1217,38 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 
+
+
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", SPOTV.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/76489.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", SPOTV 2.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/85468.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO ARENA.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/78178.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO ARENA 2.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/19496.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO PREMIER SPORTS.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/19488.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO SUPERSPORT BADMINTON.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/19509.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO SUPERSPORT BADMINTON 2.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/19507.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO SUPERSPORT FOOTBALL.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/78184.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO SPORTS PLUS
+http://pia.cx/live/p5uiBGl3/uRCDEBja/19508.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", BEIN SPORTS 1
+http://pia.cx/live/p5uiBGl3/uRCDEBja/19432.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", BEIN SPORTS 2
+http://pia.cx/live/p5uiBGl3/uRCDEBja/78187.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", BEIN SPORTS 3
+http://pia.cx/live/p5uiBGl3/uRCDEBja/19430.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", WSPORTS.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/78185.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", GOLF CHANNEL.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/19465.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO ARENA 1(github) 
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroArena1.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlUzQEaqrarNmURWmDm8xGVzNQb3orQxQIg&s" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO ARENA 2(github)
@@ -1249,6 +1281,30 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS PRIME.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500304088.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS EPL 1.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500304092.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 1.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500304099.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 2.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500304098.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 3.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500304097.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 4.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500304096.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 5.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500304095.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 6.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500304094.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 7.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500304093.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 4K 1.
+http://pia.cx/live/p5uiBGl3/uRCDEBja/500304468.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now HK Premier Sports 1
 http://iptvtree.net:8080/F25093/29838750/304092
