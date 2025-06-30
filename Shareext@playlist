@@ -702,22 +702,6 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/ry1
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ssc100.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ssc200.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ssc300.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ssc400.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ssc500.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT EXTRA 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/sscextra100.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT EXTRA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/sscextra200.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC SPORT EXTRA 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/sscextra300.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", Persiana Sports(IRAN)
 http://iptvtree.net:8080/F25093/29838750/287468
@@ -757,78 +741,6 @@ http://iptvtree.net:8080/F25093/29838750/300767
 http://iptvtree.net:8080/F25093/29838750/1250
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", KTV Sport 2(KUWAIT)
 http://iptvtree.net:8080/F25093/29838750/245622
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7mHMWk2S-ZMWFmtzZKiL0yjvfE05yLOUge2Rz8SiUiZ5nz-I8tetqs5lavGk7rfpQ0I&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabisport100.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7mHMWk2S-ZMWFmtzZKiL0yjvfE05yLOUge2Rz8SiUiZ5nz-I8tetqs5lavGk7rfpQ0I&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabisport200.m3u8
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT ASIA 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabiasia100.m3u8
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT ASIA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabiasia200.m3u8
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT PREMIUM 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabipremium100.m3u8
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", ABU DHABI SPORT PREMIUM 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/abudhabipremium200.m3u8
-#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ALKASS SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/alkass100.m3u8
-#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ALKASS SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/alkass200.m3u8
-#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ALKASS SPORT 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/alkass300.m3u8
-#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ALKASS SPORT 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/alkass400.m3u8
-#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="SHAREEXT@ ARABIAN || SPORTS", ALKASS SPORT 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/alkass500.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBczGz9lHaEmZxhMeZGWjn3p-reeiR5l2WPdNucMfg7Lv_EFTgJ8fV-w&s=10" group-title="SHAREEXT@ ARABIAN || SPORTS", BAHRAIN SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/Bahrainsport1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGRZmxAO45TLWXhJWVSBLKX9j63HSCsBXdYrFYNCICumTsvTfmT5u1Fw&s=10" group-title="SHAREEXT@ ARABIAN || SPORTS", BAHRAIN SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/Bahrainsport2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGRZmxAO45TLWXhJWVSBLKX9j63HSCsBXdYrFYNCICumTsvTfmT5u1Fw&s=10" group-title="SHAREEXT@ ARABIAN || SPORTS", BAHRAIN SPORT 1 HD
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGRZmxAO45TLWXhJWVSBLKX9j63HSCsBXdYrFYNCICumTsvTfmT5u1Fw&s=10" group-title="SHAREEXT@ ARABIAN || SPORTS", BAHRAIN SPORT 2 HD
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI RACING 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubairacing100.m3u8
-#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI RACING 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubairacing200.m3u8
-#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI RACING 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubairacing300.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1764753516491362305/efft6mWi_200x200.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubaisport100.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1764753516491362305/efft6mWi_200x200.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubaisport200.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1764753516491362305/efft6mWi_200x200.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", DUBAI SPORT 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/dubaisport300.m3u8
-#EXTINF:-1 tvg-logo="https://internet-television.net/uploads/posts/2022-11/thumbs/al-iraqiya-sport.webp" group-title="SHAREEXT@ ARABIAN || SPORTS", IRAQIA SPORT 
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/iraqiasport00.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrj1sDvwRf9AwJMjAYV06dP1Pm7SJmbXnmpA&usqp=CAU" group-title="SHAREEXT@ ARABIAN || SPORTS", JORDANIA SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/jordansport00.m3u8
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=01%2Fef4_yfjwoamdbmn.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", KSA SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ksasport100.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png" group-title="SHAREEXT@ ARABIAN || SPORTS", KSA SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ksasport200.m3u8
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=01%2Fef4_yfjwoamdbmn.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", KSA SPORT 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/ksasport300.m3u8
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fkuwaitsport.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", KUWAIT SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/kuwaitsport00.m3u8
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", LIBYA SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/libyasport100.m3u8
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", LIBYA SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/libyasport200.m3u8
-#EXTINF:-1 tvg-logo="https://egytvs.com/wp-content/uploads/2017/02/nilesport.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", NILE SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/nilesport00.m3u8
-#EXTINF:-1 tvg-logo="https://sports.ptv.com.pk/user/assets/images/logosarchive/ptvsports2021.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", PAKISTAN SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/pakistansport00.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Starz_Logo2008.png" group-title="SHAREEXT@ ARABIAN || SPORTS", STARZ SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/starzsport00.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0FRSjeIWgNtDRaH2JrTewczFHi77DyiOl_Vg56akZcd7LplZrLBTFC4&s=10" group-title="SHAREEXT@ ARABIAN || SPORTS", VARZISH SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/varzishsport00.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1704037624917209088/YmyRUw2C_400x400.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", YAS SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/yass00.m3u8
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fzamalek-tv.gif" group-title="SHAREEXT@ ARABIAN || SPORTS", ZAMALEK SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/zamaleksport00.m3u8
-
 
 
 
@@ -1133,42 +1045,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions TV 1 (ott.navigator)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions TV 2 (ott.navigator)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions TV 3 (ott.navigator)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions TV 5 (ott.navigator)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions TV 6 (ott.navigator)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-
 #EXTINF:-1 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", PREMIER LEAGUE TV (ott.navigator)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1225,33 +1101,8 @@ http://pia.cx/live/p5uiBGl3/uRCDEBja/78185.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", GOLF CHANNEL.
 http://pia.cx/live/p5uiBGl3/uRCDEBja/19465.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO ARENA 1(github) 
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroArena1.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlUzQEaqrarNmURWmDm8xGVzNQb3orQxQIg&s" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO ARENA 2(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroArena2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ARENA BOLA 1
-https://haoyunlai.serv00.net/Smartv.php?id=Bolaarena1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ARENA BOLA 2 
-https://haoyunlai.serv00.net/Smartv.php?id=Bolaarena2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO PREMIER LEAGUE(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS1.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO PREMIER LEAGUE 2(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS2.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO GRANDSTAND(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS3.m3u8 
-#EXTINF:-1 tvg-logo="https://www.tvmalaysia.live/images/astro-football-live-streaming-online.webp" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO FOOTBALL(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS4.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe00qVrak9d7t7Lxb-ADHBgmbr4FUP8ggr6g&usqp=CAU" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO BADMINTON(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroBadminton.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO CRICKET(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Astrocricket.m3u8
-
 #EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",RTM Sports
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY: Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY :Boxing TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",MY :Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
@@ -1261,64 +1112,12 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS PRIME.
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500304088.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS EPL 1.
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500304092.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 1.
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500304099.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 2.
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500304098.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 3.
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500304097.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 4.
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500304096.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 5.
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500304095.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 6.
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500304094.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 7.
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500304093.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORTS 4K 1.
-http://pia.cx/live/p5uiBGl3/uRCDEBja/500304468.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now HK Premier Sports 1
-http://iptvtree.net:8080/F25093/29838750/304092
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now HK Premier Sports 2
-http://iptvtree.net:8080/F25093/29838750/304091
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now HK Sports 4K 1
-http://iptvtree.net:8080/F25093/29838750/304101
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now HK Sports Prime
-http://iptvtree.net:8080/F25093/29838750/304088
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now Sports 1
-http://iptvtree.net:8080/F25093/29838750/304099
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now Sports 2
-http://iptvtree.net:8080/F25093/29838750/304098
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now Sports 3
-http://iptvtree.net:8080/F25093/29838750/304097
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now Sports 4
-http://iptvtree.net:8080/F25093/29838750/304096
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now Sports 5
-http://iptvtree.net:8080/F25093/29838750/304095
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now Sports 6
-http://iptvtree.net:8080/F25093/29838750/304094
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now Sports 7
-http://iptvtree.net:8080/F25093/29838750/304093
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", HK:Now Sports PL 1
-http://iptvtree.net:8080/F25093/29838750/304467
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG || SPORTS", 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmohffZqzd9a_8puCAll5RFgx_OYdiDgOPqw&s" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORT PREMIER 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/NowsportPL1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUd6flc1uIk9_6IB42T3zQxduVCTFhVYFag&usqp=CAU" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORT PREMIER 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/NowsportPL2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiT4oD4895QXUdipg8iGAxkIO73cVTyh11ig&s" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORT PREMIER 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/NowsportPL3.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_425_305" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORT PREMIER 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/NowsportPL4.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_425_305" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORT PREMIER 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/NowsportPL5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEn1Sr_1ZKG_3NANMPapyT-ARMAkzgaLRJAQ&usqp=CAU" group-title="SHAREEXT@ HONGKONG || SPORTS", NOW SPORT PRIME
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/NowsportPrime.m3u8
+
 
 
 
@@ -1431,25 +1230,6 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_sport
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE BEINSPORT 1(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueBein1.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPOTV 1(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueSpotv1.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPOTV 2(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueSpotv2.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SHAREEXT@THAILAND ➾ Sports", TRUESPORT 1(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SHAREEXT@THAILAND ➾ Sports", TRUESPORT 2(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SHAREEXT@THAILAND ➾ Sports", TRUESPORT 3(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SHAREEXT@THAILAND ➾ Sports", TRUESPORT 4(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SHAREEXT@THAILAND ➾ Sports", TRUESPORT 5(github)
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SHAREEXT@THAILAND ➾ Sports", TRUESPORT 7(github) 
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True7.m3u8
 
 #EXTINF:-1 group-title="SHAREEXT@THAILAND ➾ Sports" tvg-id="spotv.kr" tvg-logo="https://i.ibb.co.com/k2shPZPm/20250129-230703.jpg",SPOTV_true(referer)
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
