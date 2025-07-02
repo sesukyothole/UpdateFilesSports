@@ -1496,6 +1496,20 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playl
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SS premierLeaguea
+http://ky-iptv.com/live/Ivica5274/juric4005/386577.ts|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SS RUGBY
+http://ky-iptv.com/live/Ivica5274/juric4005/386579.ts|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SS VARIETY
+http://ky-iptv.com/live/Ivica5274/juric4005/386583.ts|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SS FOOTBALL
+http://ky-iptv.com/live/Ivica5274/juric4005/386584.ts|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SS ACTION
+http://ky-iptv.com/live/Ivica5274/juric4005/386585.ts|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SS CRICKET
+http://ky-iptv.com/live/Ivica5274/juric4005/386586.ts|user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Canal + Sport 1 HD" tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",DSTV: Canal + Sport 1 HD 
 http://ktv.im:8080/fullpack15months354/213907856/429313 
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Canal + Sport 2 HD" tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",DSTV: Canal + Sport 2 HD 
@@ -1552,42 +1566,6 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/153718.ts
 http://exm3u.extraott.com:900/live/1103581436/4099381829/13716.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9WSJVdE.png", tvg-id="ksport1hd" group-title="ShareExt@PREMIUM✓SPORTS", TNT SPORTS 5 
 http://exm3u.extraott.com:900/live/1103581436/4099381829/62800.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" VARIETY 1 HD" tvg-logo="https://img.logo-cdn.cc/supersportvariety1.png" group-title="ShareExt@PREMIUM✓SPORTS", SS VARIETY 1 HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159883.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" VARIETY 2 HD" tvg-logo="https://img.logo-cdn.cc/supersportvariety2.png" group-title="ShareExt@PREMIUM✓SPORTS", SS VARIETY 2 HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159884.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" VARIETY 3 HD" tvg-logo="https://img.logo-cdn.cc/supersportvariety3.png" group-title="ShareExt@PREMIUM✓SPORTS", SS VARIETY 3 HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/186870.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" VARIETY 4 HD" tvg-logo="https://img.logo-cdn.cc/supersportvariety4.png" group-title="ShareExt@PREMIUM✓SPORTS", SS VARIETY 4 HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/186869.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" FOOTBALL HD " tvg-logo="https://img.logo-cdn.cc/supersportfootball.png" group-title="ShareExt@PREMIUM✓SPORTS", SS FOOTBALL HD 
-http://exm3u.extraott.com:900/live/1103581436/4099381829/186875.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" PREMIER LEAGUE HD" tvg-logo="https://img.logo-cdn.cc/supersportpremierleague.png" group-title="ShareExt@PREMIUM✓SPORTS", SS PREMIER LEAGUE HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159892.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" LA LIGA HD" tvg-logo="https://img.logo-cdn.cc/supersportlaliga.png" group-title="ShareExt@PREMIUM✓SPORTS", SS LA LIGA HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159894.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" ACTION HD" tvg-logo="https://img.logo-cdn.cc/supersportaction.png" group-title="ShareExt@PREMIUM✓SPORTS", SS ACTION HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/117927.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" PSL HD" tvg-logo="https://img.logo-cdn.cc/supersportpsl.png" group-title="ShareExt@PREMIUM✓SPORTS", SS PSL HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159893.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" GRANDSTAND HD" tvg-logo="https://img.logo-cdn.cc/supersportgrandstand.png" group-title="ShareExt@PREMIUM✓SPORTS", SS GRANDSTAND HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159891.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" TENNIS HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="ShareExt@PREMIUM✓SPORTS", SS TENNIS HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159890.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" RUGBY HD" tvg-logo="https://img.logo-cdn.cc/supersportrugby.png" group-title="ShareExt@PREMIUM✓SPORTS", SS RUGBY HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159889.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" CRICKET HD" tvg-logo="https://img.logo-cdn.cc/supersportcricket.png" group-title="ShareExt@PREMIUM✓SPORTS", SS CRICKET HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/117926.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" GOLF HD" tvg-logo="https://img.logo-cdn.cc/supersportgolf.png" group-title="ShareExt@PREMIUM✓SPORTS", SS GOLF HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159887.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" MOTORSPORT HD" tvg-logo="https://img.logo-cdn.cc/supersportmotorsport.png" group-title="ShareExt@PREMIUM✓SPORTS", SS MOTORSPORT HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159888.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" BLITZ HD" tvg-logo="https://img.logo-cdn.cc/supersportblitz.png" group-title="ShareExt@PREMIUM✓SPORTS", SS BLITZ HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/110613.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" MAXIMO 1" tvg-logo="https://img.logo-cdn.cc/supersportmaximo1.png" group-title="ShareExt@PREMIUM✓SPORTS", SS MAXIMO 1
-http://exm3u.extraott.com:900/live/1103581436/4099381829/159896.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" PLAY 1 HD" tvg-logo="https://img.logo-cdn.cc/supersportplay.png" group-title="ShareExt@PREMIUM✓SPORTS", SS PLAY 1 HD
-http://exm3u.extraott.com:900/live/1103581436/4099381829/186873.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SPORT ▎ESPN HD" tvg-logo="https://img.logo-cdn.cc/espn.png" group-title="ShareExt@PREMIUM✓SPORTS",SS ESPN HD
 http://ktv.im:8080/fullpack15months354/213907856/21368
 #EXTINF:-1 tvg-ID="" tvg-name="SPORT ▎ESPN 2 HD" tvg-logo="https://img.logo-cdn.cc/espn2.png" group-title="ShareExt@PREMIUM✓SPORTS",SS ESPN 2 HD
