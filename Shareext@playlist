@@ -1189,13 +1189,13 @@ https://hls-gateway.vpstv.net/streams/709521.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", HubPremier6
 https://hls-gateway.vpstv.net/streams/709522.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS",HUB SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", HUBSPORTS. 1
 http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS",HUB SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", HUBSPORTS. 3
 http://exm3u.extraott.com:900/live/1103581436/4099381829/36303.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 4" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS",HUB SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 4" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", HUBSPORTS. 4
 http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS",HUB SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", HUBSPORTS. 5
 http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", DAZN 1
