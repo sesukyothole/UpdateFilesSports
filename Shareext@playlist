@@ -650,6 +650,24 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/ry1
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC.SPORTS.1
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1026528.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC.SPORTS.2
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1026529.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC.SPORTS.3
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1026530.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC.SPORTS.4
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1026531.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC.SPORTS.5
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1026532.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC.EXTRA.1
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1026533.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC.EXTRA.2
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1026534.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", SSC.EXTRA.3
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1026535.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", Persiana Sports(IRAN)
 http://iptvtree.net:8080/F25093/29838750/287468
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AlRabiaa Sport(IRAK)
@@ -914,6 +932,18 @@ http://iptvtree.net:8080/F25093/29838750/245622
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", RCTI.HD (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/73606.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", SCTV.HD (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/73607.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", INDOSIAR.HD (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/73617.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", MNCTV.HD (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/73616.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", RCTI (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/73619.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", INDOSIAR (vpstv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://hls-gateway.vpstv.net/streams/476858.m3u8
@@ -1160,6 +1190,33 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", NOW.PREMIER.1 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/958142.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", NOW.PREMIER.2 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/958143.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", NOW.PREMIER.3 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/958144.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", NOW.SPORTS.1 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/958134.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", NOW.SPORTS.2 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/958135.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", NOW.SPORTS.3 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/958136.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", NOW.SPORTS.4 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/958137.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", W.SPORTS (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/958138.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", HUB.PREMIER.1 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1022975.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", HUB.PREMIER.2 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1022976.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", HUB.PREMIER.3 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1022977.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", HUB.PREMIER.4 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/1022978.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", NowSports 1
 https://hls-gateway.vpstv.net/streams/708929.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", ELTA 体育1台
@@ -1222,7 +1279,8 @@ https://hls-gateway.vpstv.net/streams/708971.m3u8
 https://hls-gateway.vpstv.net/streams/708859.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", 央视台球
 https://hls-gateway.vpstv.net/streams/708855.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", 高尔夫网球HD,https://hls-gateway.vpstv.net/streams/708857.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", 高尔夫网球HD
+https://hls-gateway.vpstv.net/streams/708857.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", 武术世界
 https://hls-gateway.vpstv.net/streams/708969.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ HONGKONG|TW|CHINA~SPORTS", 快乐垂钓HD
@@ -1358,7 +1416,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9
 
 
 
-
+#EXTINF:-1 group-title="SHAREEXT@THAILAND ➾ Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",TrueSports (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/952232.ts
 #EXTINF:-1 group-title="SHAREEXT@THAILAND ➾ Sports" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",TruePremier 1(Referer)
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -1496,6 +1555,17 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playl
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SS 4 (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/932590.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SKY CRICKET (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/932577.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SKY GOLF (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/932579.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SKY PREMIER.LIGUEA (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/932584.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SS RUGBY (ktp)
+http://ktpremium.online:2095/live/Ariffatika84/Ariff@tika84/932586.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS", SS premierLeaguea
 http://ky-iptv.com/live/Ivica5274/juric4005/386577.ts|user-agent=Mozilla/5.0
