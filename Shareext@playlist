@@ -1139,21 +1139,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Arena
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Arena
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157485
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Cricket
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Cricket
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157565
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Football
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Football
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157558
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Grandstand
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Grandstand
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306492
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Premier League
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Premier League
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/146068
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•SuperSport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•SuperSport 2
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157556
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•SuperSport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•SuperSport 3
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157557
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",beIN•Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",beIN•Sports
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157561
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",RTM Sports
@@ -1422,6 +1422,18 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/maxres.png" group-title="ShareExt@FIGHT_Sports",MMA
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/maxres.png",Swerve Combat
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/maxres.png" group-title="ShareExt@FIGHT_Sports",MMA PFL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/maxres.png",UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/maxres.png",United Fight Alliance
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/maxres.png",MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MX ▎PLUTO TV LUCHA LIBRE AAA" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="ShareExt@FIGHT_Sports",MX ▎PLUTO TV LUCHA LIBRE AAA(pluto)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
 #EXTINF:-1 tvg-ID="" tvg-name="MX ▎PLUTO TV LUCHA LIBRE AAA" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="ShareExt@FIGHT_Sports",MX ▎PLUTO TV LUCHA LIBRE AAA(roku)
