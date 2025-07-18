@@ -57,6 +57,50 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB.SPORTS.1 (Singapore)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1090647.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB.SPORTS.2 (Singapore)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1090648.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB.SPORTS.3 (Singapore)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1090649.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB.SPORTS.4 (Singapore)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1090650.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", STARSPORTS.1 (indie)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1090652.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", STARSPORTS.2 (indie)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1090653.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW.SPORTS.1 (Taiwan)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/438868.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW.SPORTS.2 (Taiwan)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/438869.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW.SPORTS.3 (Taiwan)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/438870.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW.SPORTS.4 (Taiwan)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/438871.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW.SPORTS.5 (Taiwan)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/438872.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW.SPORTS.6 (Taiwan)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/438873.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW.SPORTS.7 (Taiwan)
+http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/438874.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW HK PREMIER SPORTS 1 FHD (Taiwan)
+http://rfye55.xyz:80/live/98:06:3c:98:da:fa/881A863F2BD7/748430.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW HK PREMIER SPORTS 2 FHD (Taiwan)
+http://rfye55.xyz:80/live/98:06:3c:98:da:fa/881A863F2BD7/748431.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW HK PREMIER SPORTS 3 FHD (Taiwan)
+http://rfye55.xyz:80/live/98:06:3c:98:da:fa/881A863F2BD7/748432.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW HK PREMIER SPORTS 4 FHD (Taiwan)
+http://rfye55.xyz:80/live/98:06:3c:98:da:fa/881A863F2BD7/748433.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW HK PREMIER SPORTS 5 FHD (Taiwan)
+http://rfye55.xyz:80/live/98:06:3c:98:da:fa/881A863F2BD7/748434.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW HK PREMIER SPORTS 6 FHD (Taiwan)
+http://rfye55.xyz:80/live/98:06:3c:98:da:fa/881A863F2BD7/748435.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW HK PREMIER SPORTS 7 FHD (Taiwan)
+http://rfye55.xyz:80/live/98:06:3c:98:da:fa/881A863F2BD7/748436.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW HK PREMIER SPORTS 8 FHD (Taiwan)
+http://rfye55.xyz:80/live/98:06:3c:98:da:fa/881A863F2BD7/748437.ts
+
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", ChampionTV 1 (OttNavigator & tivimate)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -961,18 +1005,10 @@ http://live.catvod.com/smart.php?id=Trans7_eko
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Transtv (smart)
 http://live.catvod.com/smart.php?id=Transtv
 
-#EXTINF:-1 tvg-id="Indosiar.id" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png",Indosiar HD (tvking)
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://tvking6282.cloud/k0detv2206/Lokal/Indosiar-HD.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/hud4156/mytv/main/png/sctv.png",SCTV HD (tvking)
-https://tvking6282.cloud/k0detv2206/Lokal/ScTv-HD.m3u8
-#EXTINF:-1 tvg-id="moji.id" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji (tvking)
-https://tvking6282.cloud/k0detv2206/Lokal/Moji-HD.m3u8
 #EXTINF:-1 tvg-id="moji.id" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji HD (3)
 http://45.194.86.61:8070/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 #EXTINF:-1 tvg-id="mentaritv.id" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",MentariTV (indihome)
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://hifight.it/wp-content/uploads/2021/11/hifight-600x600-1.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Hi-Fight Supersport
 http://49.0.64.96:8007/HIFIGHT
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YfQRjZs/Picsart-23-07-20-15-16-23-603.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", IMPACT! WRESTLING
