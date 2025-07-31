@@ -7,12 +7,10 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", ELTA.SPORTS.1.HD.台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", ELTA.SPORTS.1.台
-http://live.catvod.com/smart.php?id=eltasport_twn
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", ELTA.SPORTS.2.台
-http://live.catvod.com/smart.php?id=eltasport2_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", ELTA.SPORTS.3.台
-http://live.catvod.com/smart.php?id=eltasport3_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -160,8 +158,8 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="ShareExt@Relax", Unifi_mpd (UFC live) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(catvod)
-http://live.catvod.com/smart.php?id=Indosiar
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(smart)
+https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(filex)
 http://filex.me:8080/live/444476/444476/302264.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(filex.1)
@@ -1141,27 +1139,27 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/245622
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Indosiar HD (smart)
-http://live.catvod.com/smart.php?id=Indosiar
+https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", RCTI (smart)
-http://live.catvod.com/smart.php?id=Rcti
+https://smart.pendy.dpdns.org/Smart.php?id=Rcti
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", MNC TV (smart)
-http://live.catvod.com/smart.php?id=Mnctv
+https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", iNews TV (smart)
-http://live.catvod.com/smart.php?id=Inewstv
+https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Fight Sports (smart)
-http://live.catvod.com/smart.php?id=Fs
+https://smart.pendy.dpdns.org/Smart.php?id=Fs
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", GTV (smart)
-http://live.catvod.com/smart.php?id=Gtv
+https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", SCTV (smart)
-http://live.catvod.com/smart.php?id=SCTV
+https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Tvone (smart)
-http://live.catvod.com/smart.php?id=Tvone
+https://smart.pendy.dpdns.org/Smart.php?id=Tvone
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", AnTV (smart)
-http://live.catvod.com/smart.php?id=Antv
+https://smart.pendy.dpdns.org/Smart.php?id=Antv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Trans 7 (smart)
-http://live.catvod.com/smart.php?id=Trans7_eko
+https://smart.pendy.dpdns.org/Smart.php?id=Trans7_eko
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Transtv (smart)
-http://live.catvod.com/smart.php?id=Transtv
+https://smart.pendy.dpdns.org/Smart.php?id=Transtv
 
 #EXTINF:-1 tvg-id="moji.id" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji HD (3)
 http://45.194.86.61:8070/friptv/AwWjvV6QuXDY84xR5meJhk/298550
@@ -1414,39 +1412,39 @@ https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro.Beinsports 3 (smart)
 https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Arena (smart)
-http://live.catvod.com/smart.php?id=Arena
+https://smart.pendy.dpdns.org/Smart.php?id=Arena
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Arena 2 (smart)
-http://live.catvod.com/smart.php?id=Arena2
+https://smart.pendy.dpdns.org/Smart.php?id=Arena2
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", BolaArena 1 (smart)
-http://live.catvod.com/smart.php?id=Bolaarena1
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", BolaArena 2 (smart)
-http://live.catvod.com/smart.php?id=Bolaarena2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", RTM Sports HD (smart)
-http://live.catvod.com/smart.php?id=Rtmsport
+https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", SPOTV 1 (smart)
-http://live.catvod.com/smart.php?id=go_spotv
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", SPOTV 2 (smart)
-http://live.catvod.com/smart.php?id=go_spotv2
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro.premier.League 1 (smart)
-http://live.catvod.com/smart.php?id=go_assp1
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro.premier.League 2 (smart)
-http://live.catvod.com/smart.php?id=go_assp2
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro.Grandstand (smart)
-http://live.catvod.com/smart.php?id=go_assp3
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO.FOOTBALL. (smart)
-http://live.catvod.com/smart.php?id=go_assp4
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", W.SPORTS (smart)
-http://live.catvod.com/smart.php?id=go_assp5
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ELTAsport.1.台 (smart)
-http://live.catvod.com/smart.php?id=eltasport1_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport1_twn
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ELTAsport.2.台 (smart)
-http://live.catvod.com/smart.php?id=eltasport2_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ELTAsport.3.台 (smart)
-http://live.catvod.com/smart.php?id=eltasport3_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", CCTV-5 (smart)
-http://live.catvod.com/smart.php?id=cctv5
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", CCTV-5+ (smart)
-http://live.catvod.com/smart.php?id=cctv5plus
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Arena
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157485
