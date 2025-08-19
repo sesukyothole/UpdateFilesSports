@@ -8,7 +8,8 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="ShareExt@Relax",SOCCER CHANNEL_(PLAY)
 http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=1165923&extension=ts&play_token=MuAtKHBcDR
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="ShareExt@Relax",SPOTV 2_(PLAY)
-http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=1165926&extension=ts&play_token=MuAtKHBcDR
+http://125.227.210.55:8176/VideoInput/play.ts
+#http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=1165926&extension=ts&play_token=MuAtKHBcDR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="ShareExt@Relax",ID: SPORTSTARS 1.
 http://iptvtree.net:8080/live/F28312/cc1dc138/157589.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="ShareExt@Relax",SPORTSTARS-2_PLAY
@@ -21,6 +22,19 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/302365.ts
 http://iptvtree.net:8080/live/F28312/cc1dc138/304834.ts
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="ShareExt@Relax",TH: True Sport 2
 http://iptvtree.net:8080/live/F28312/cc1dc138/304833.ts
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax", CCTV 5+ (CHN)
+http://125.227.210.55:8177/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", GAORA SPORTS (JPN)
+https://mt01.utako.moe/gaora/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", JAPAN SPORTS 1
+https://mt01.utako.moe/js1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", JAPAN SPORTS 2
+https://mt01.utako.moe/js2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", JAPAN SPORTS 3
+https://mt01.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", JAPAN SPORTS 4
+https://mt01.utako.moe/js4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB•SPORTS•1.(SG)_PLAY
 http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280822&extension=ts&play_token=P2AVwN95oA
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB•SPORTS•2.(SG)_PLAY
