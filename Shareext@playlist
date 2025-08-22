@@ -189,6 +189,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
 http://filex.me:8080/live/444476/444476/302264.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(filex.1)
 http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(filex.2)
+
+http://filex.tv:8080/live/Home329/Sohailhome/302264.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (3f1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://iptvtree.net:8080/live/F15554/Tve5ZWQEd485/162138.ts
