@@ -67,7 +67,12 @@ https://live.kands.dpdns.org/pat/677a74a514cb9c94c548daa56eb1d3d121337cfbf53f
 https://live.kands.dpdns.org/pat/636261ba39da8988b548d7b038add6c32c7178bbf4297eda9deb
 #EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="ShareExt@Relax",TDM Sports (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax", cctv•5
+https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax", cctv•5plus
+https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5plus
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax", cctv•16 sports
+https://pixman.mytvsuper.com.mp/Smart.php?id=cctv16
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax", CCTV 5+ (CHN)
 http://125.227.210.55:8177/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", GAORA SPORTS (JPN)
