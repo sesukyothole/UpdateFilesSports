@@ -22,6 +22,52 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/302365.ts
 http://iptvtree.net:8080/live/F28312/cc1dc138/304834.ts
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="ShareExt@Relax",TH: True Sport 2
 http://iptvtree.net:8080/live/F28312/cc1dc138/304833.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", Skynet Sports 1 (TH)
+http://203.80.165.14:30168/stream/channelid/2078546369?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", Skynet Sports 2 (TH)
+http://203.80.165.14:30168/stream/channelid/1527079176?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", SkyNet Soprts 3 (TH)
+http://203.80.165.14:30168/stream/channelid/289182267?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", True Sports 4 (TH)
+http://203.80.165.14:30168/stream/channelid/1363111981?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", T Sports 7 (TH)
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", Edge Sport (TH)
+http://203.80.165.14:30168/stream/channelid/161131987?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", HOP_Sports (TWN)
+http://iptv.4666888.xyz/iptv.php?id=20311
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Elta Sports 1. (TWN)爱尔达体育1
+http://iptv.4666888.xyz/iptv.php?id=20232
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Elta Sports 2. (TWN)爱尔达体育2
+http://iptv.4666888.xyz/iptv.php?id=20233
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Elta Sports 3. (TWN)爱尔达体育3
+http://iptv.4666888.xyz/iptv.php?id=20234
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Elta Sports 4. (TWN)爱尔达体育4
+http://iptv.4666888.xyz/iptv.php?id=20235
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯运动 1 (CHN)
+http://iptv.4666888.xyz/iptv.php?id=20263
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯运动 2 (CHN)
+http://iptv.4666888.xyz/iptv.php?id=20264
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯高球 1 (CHN)
+http://iptv.4666888.xyz/iptv.php?id=20266
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯高球 2 (CHN)
+http://iptv.4666888.xyz/iptv.php?id=20265
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯网球 (CHN)
+http://iptv.4666888.xyz/iptv.php?id=20267
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯无限 (CHN)
+http://iptv.4666888.xyz/iptv.php?id=20268
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Now_sport 1 (HK)
+http://iptv.4666888.xyz/iptv.php?id=20092
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Now_sport 2 (HK)
+http://iptv.4666888.xyz/iptv.php?id=20093
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", PPTV (TH)
+https://live.kands.dpdns.org/pat/677a74a514cb9c94c548daa56eb1d3d121337cfbf53f
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", Thairath (TH)
+https://live.kands.dpdns.org/pat/636261ba39da8988b548d7b038add6c32c7178bbf4297eda9deb
+#EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="ShareExt@Relax",TDM Sports (720p)
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax", CCTV 5+ (CHN)
 http://125.227.210.55:8177/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", GAORA SPORTS (JPN)
@@ -59,10 +105,6 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=571246&exten
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=571245&extension=ts&play_token=DN0WCkw1Yv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO PREMIER LEAGUE 2 (PLAY)
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=571245&extension=ts&play_token=DN0WCkw1Yv
-
-#EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="ShareExt@Relax",TDM Sports (720p)
-https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",NOW SPORTS PRIME (HK)
 http://ringo4532.xyz/play/live.php?mac=00:1A:79:51:D2:FD&stream=313830&extension=ts&play_token=YnFwg07NPo
@@ -235,6 +277,8 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="ShareExt@Relax", Unifi_mpd (UFC live) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(live)
+https://live.kands.dpdns.org/pat/5e6464bc38d29c92c548daa56eb1d3d121337cfbf53f
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(smart)
 http://47.91.17.126:20002/Smartv.php?id=Indosiar
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (3f2)
@@ -1896,6 +1940,25 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", HI Fight HD
+http://49.0.64.96:8007/HIFIGHT 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", HI Sport HD
+http://49.0.64.96:8007/HiSports
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", WWE Network
+http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/169758
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", Fightbox HD
+http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/167732
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", Fightklub HD
+http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/167775
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", Polsat Sport Fight HD
+http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/167774
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", UFC FIGHT PASS 24/7
+http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/70472
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", UFC FIGHT PASS
+http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/70505
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/maxres.png" group-title="ShareExt@FIGHT_Sports",MMA
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
