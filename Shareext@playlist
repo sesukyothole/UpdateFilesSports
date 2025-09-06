@@ -35,6 +35,40 @@ http://203.80.165.14:30168/stream/channelid/1363111981?profile=pass
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", Edge Sport (TH)
 http://203.80.165.14:30168/stream/channelid/161131987?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", Adu Ayam (HI Sport)_ TH HD
+http://49.0.64.96:8007/HiSports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", HI Fight HD
+http://49.0.64.96:8007/HIFIGHT 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", HI Sport HD
+http://49.0.64.96:8007/HiSports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", DTV2 Tennis HD
+http://49.0.64.96:8007/TENNIS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", Top Fight HD
+http://49.0.64.96:8007/TOPFIGHT
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", NBA One HD
+http://49.0.64.96:8007/NBA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", GOLF HD
+http://49.0.64.96:8007/GOLF
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", MAX 1: True Premiere Football 1
+http://iptvtree.net:8080/F28312/cc1dc138/162591
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", MAX 2: True Premiere Football 2
+http://iptvtree.net:8080/F28312/cc1dc138/162592
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", PH: .One Sports
+http://iptvtree.net:8080/F28312/cc1dc138/299947
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", PH: .One Sports +
+http://iptvtree.net:8080/F28312/cc1dc138/290365
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", PH: PBA Rush.
+http://iptvtree.net:8080/F28312/cc1dc138/299950
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", PPTV Thailand
+https://live.kands.dpdns.org/pat/677a74a514cb9c94c548daa56eb1d3d121337cfbf53f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", Thairath
+https://live.kands.dpdns.org/pat/636261ba39da8988b548d7b038add6c32c7178bbf4297eda9deb.m3u8
+
+
+
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", HOP_Sports (TWN)
 http://iptv.4666888.xyz/iptv.php?id=20311
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Elta Sports 1. (TWN)爱尔达体育1
@@ -97,7 +131,7 @@ http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280825&extension
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB•SPORTS•5.(SG)_PLAY
 http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280826&extension=ts&play_token=P2AVwN95oA
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO ARENA(3)
-http://iptvtree.net:8080/live/F28312/cc1dc138/157485.ts
+https://live.kands.dpdns.org/pat/567865bd2a948d8c8b41daad64a994cf666829.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO CRICKET (PLAY)
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1036490&extension=ts&play_token=9T203wVU4U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO SPORTS PLUS (PLAY)
@@ -1617,6 +1651,53 @@ http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", Adu Ayam (HI Sport)_ TH HD
+http://49.0.64.96:8007/HiSports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", HI Fight HD
+http://49.0.64.96:8007/HIFIGHT 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", HI Sport HD
+http://49.0.64.96:8007/HiSports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", DTV2 Tennis HD
+http://49.0.64.96:8007/TENNIS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", Top Fight HD
+http://49.0.64.96:8007/TOPFIGHT
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", NBA One HD
+http://49.0.64.96:8007/NBA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", GOLF HD
+http://49.0.64.96:8007/GOLF
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", Skynet Sports 1
+http://203.80.165.14:30168/stream/channelid/2078546369?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", Skynet Sports 2
+http://203.80.165.14:30168/stream/channelid/1527079176?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", SkyNet Soprts 3
+http://203.80.165.14:30168/stream/channelid/289182267?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", True Sports 1
+http://iptvtree.net:8080/live/F28312/cc1dc138/304834.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", True Sports 2
+http://iptvtree.net:8080/live/F28312/cc1dc138/304833.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", True Sports 4
+http://203.80.165.14:30168/stream/channelid/1363111981?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", MAX 1: True Premiere Football 1
+http://iptvtree.net:8080/F28312/cc1dc138/162591
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", MAX 2: True Premiere Football 2
+http://iptvtree.net:8080/F28312/cc1dc138/162592
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", PH: .One Sports
+http://iptvtree.net:8080/F28312/cc1dc138/299947
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", PH: .One Sports +
+http://iptvtree.net:8080/F28312/cc1dc138/290365
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", PH: PBA Rush.
+http://iptvtree.net:8080/F28312/cc1dc138/299950
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", T Sports 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", Edge Sport 
+http://203.80.165.14:30168/stream/channelid/161131987?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", PPTV Thailand
+https://live.kands.dpdns.org/pat/677a74a514cb9c94c548daa56eb1d3d121337cfbf53f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", Thairath
+https://live.kands.dpdns.org/pat/636261ba39da8988b548d7b038add6c32c7178bbf4297eda9deb.m3u8
 
 #EXTINF:-1 group-title="SHAREEXT@THAILAND ➾ Sports" tvg-id="beinSports1thailand.th" tvg-logo="https://i.ibb.co.com/pv41DqDh/20250128-201743.jpg",beINSports 1 TRUE(referer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
