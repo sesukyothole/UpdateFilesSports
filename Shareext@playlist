@@ -5,15 +5,10 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="ShareExt@Relax",SOCCER CHANNEL_(PLAY)
-http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=1165923&extension=ts&play_token=MuAtKHBcDR
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="ShareExt@Relax",SPOTV 2_(PLAY)
 http://125.227.210.55:8176/VideoInput/play.ts
-#http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=1165926&extension=ts&play_token=MuAtKHBcDR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="ShareExt@Relax",ID: SPORTSTARS 1.
 http://iptvtree.net:8080/live/F28312/cc1dc138/157589.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="ShareExt@Relax",SPORTSTARS-2_PLAY
-http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=1165924&extension=ts&play_token=MuAtKHBcDR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="ShareExt@Relax",ID: SPORTSTARS 2.
 http://iptvtree.net:8080/live/F28312/cc1dc138/298548.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pv41DqDh/20250128-201743.jpg" group-title="ShareExt@Relax",TH: beINSports 
@@ -66,9 +61,6 @@ https://live.kands.dpdns.org/pat/677a74a514cb9c94c548daa56eb1d3d121337cfbf53f.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", Thairath
 https://live.kands.dpdns.org/pat/636261ba39da8988b548d7b038add6c32c7178bbf4297eda9deb.m3u8
 
-
-
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", HOP_Sports (TWN)
 http://iptv.4666888.xyz/iptv.php?id=20311
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Elta Sports 1. (TWN)爱尔达体育1
@@ -91,9 +83,7 @@ http://iptv.4666888.xyz/iptv.php?id=20265
 http://iptv.4666888.xyz/iptv.php?id=20267
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯无限 (CHN)
 http://iptv.4666888.xyz/iptv.php?id=20268
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Now_sport 1 (HK)
-http://iptv.4666888.xyz/iptv.php?id=20092
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Now_sport 2 (HK)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NBA_sporttv 
 http://iptv.4666888.xyz/iptv.php?id=20093
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", PPTV (TH)
 https://live.kands.dpdns.org/pat/677a74a514cb9c94c548daa56eb1d3d121337cfbf53f
@@ -120,17 +110,7 @@ https://mt01.utako.moe/js3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", JAPAN SPORTS 4
 https://mt01.utako.moe/js4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB•SPORTS•1.(SG)_PLAY
-http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280822&extension=ts&play_token=P2AVwN95oA
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB•SPORTS•2.(SG)_PLAY
-http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280823&extension=ts&play_token=P2AVwN95oA
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB•SPORTS•3.(SG)_PLAY
-http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280824&extension=ts&play_token=P2AVwN95oA
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB•SPORTS•4.(SG)_PLAY
-http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280825&extension=ts&play_token=P2AVwN95oA
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB•SPORTS•5.(SG)_PLAY
-http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280826&extension=ts&play_token=P2AVwN95oA
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO ARENA(3)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO ARENA
 https://live.kands.dpdns.org/pat/567865bd2a948d8c8b41daad64a994cf666829.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO CRICKET (PLAY)
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1036490&extension=ts&play_token=9T203wVU4U
@@ -1584,51 +1564,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",PK | GEO SUPER HD
-http://filex.tv:8080/live/Home329/Sohailhome/52080
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | SONY TEN 1 HD
-http://filex.tv:8080/live/Home329/Sohailhome/52083
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | SONY TEN 2 HD
-http://filex.tv:8080/live/Home329/Sohailhome/52085
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | SONY TEN 3 HD
-http://filex.tv:8080/live/Home329/Sohailhome/52086
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | STAR SPORTS 1 HD
-http://filex.tv:8080/live/Home329/Sohailhome/52094
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | STAR SPORTS 2 HD
-http://filex.tv:8080/live/Home329/Sohailhome/52096
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | STAR SPORTS SELECT 1 HD
-http://filex.tv:8080/live/Home329/Sohailhome/52098
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | STAR SPORTS SELECT 2 HD
-http://filex.tv:8080/live/Home329/Sohailhome/52100
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | TEN SPORTS HD
-http://filex.tv:8080/live/Home329/Sohailhome/52106
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",PK | ARY SPORTS SD.
-http://filex.tv:8080/live/Home329/Sohailhome/62393
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | STAR SPORTS 1 HINDI FHD 
-http://filex.tv:8080/live/Home329/Sohailhome/90342
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",PK | PTV SPORTS SD
-http://filex.tv:8080/live/Home329/Sohailhome/250211
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | FAST SPORTS 
-http://filex.tv:8080/live/Home329/Sohailhome/277207
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | EURO SPORTS
-http://filex.tv:8080/live/Home329/Sohailhome/297577
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",PK | PTV SPORTS HD
-http://filex.tv:8080/live/Home329/Sohailhome/453434
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | SONY TEN 5 HD
-http://filex.tv:8080/live/Home329/Sohailhome/453435
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | ASTRO CRICKET
-http://filex.tv:8080/live/Home329/Sohailhome/451415
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",BD | T SPORTS
-http://filex.tv:8080/live/Home329/Sohailhome/111409
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | WILLOW CRICKET HD
-http://filex.tv:8080/live/Home329/Sohailhome/52109
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",IN | DD SPORTS
-http://filex.tv:8080/Home329/Sohailhome/479719
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS_1_HD(cloud)
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
