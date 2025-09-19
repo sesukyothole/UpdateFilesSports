@@ -111,6 +111,35 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858d6351f0018dc0100d513246/cf58fdbdfa9f44a9b848d6c7097c3da9.jpg" group-title="ShareExt@Relax",PSJ TV (cubmu)
 https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",TNT SPORTS 1 (UK)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/77413.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",TNT SPORTS 2 (UK)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/77414.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",TNT SPORTS 3 (UK)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/77415.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",TNT SPORTS 4 (UK)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/10510.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",HUB SPORTS 1 (UK)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/280827.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",HUB SPORTS 2 (UK)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/280828.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",HUB SPORTS 3 (UK)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/280829.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",HUB SPORTS 4 (UK)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/280830.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",HUB SPORTS 5 (UK)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/280831.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",RMC SPORTS 1 (FRANCE)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/12790.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",RMC SPORTS 2 (FRANCE)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/12789.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",RMC SPORTS 3 (FRANCE)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/12788.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",RMC SPORTS 4 (FRANCE)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/12787.ts
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="ShareExt@Relax",SPOTV 2_(PLAY)
 http://125.227.210.55:8176/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="ShareExt@Relax",ID: SPORTSTARS 1.
@@ -1144,7 +1173,34 @@ http://iptvtree.net:8080/F28312/cc1dc138/245622
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",SOCCER CHANEL (ID)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1165923.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",SPORTSTARS (ID)
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1165865.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",SPORTSTARS 2 (ID)
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1165866.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",SPOTV (ID)
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1165867.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",SPOTV 2 (ID)
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1165868.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BEINSPORTS 1 (ID)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1165886.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BEINSPORTS 2 (ID)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1165887.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BEINSPORTS 3 (ID)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1165888.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BEINSPORTS 4 (ID)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1165889.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BEINSPORTS 5 (ID)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1165890.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",RCTI  (ID)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1165918.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",MNCTV (ID)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1165910.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",INEWS (ID)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1165906.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",GTV (ID)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1165902.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Indosiar HD (smart)
 http://47.91.17.126:20002/Smartv.php?id=Indosiar
@@ -1377,8 +1433,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro PremierLeague (MLY)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1163984.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro PremierLeague 2 (MLY)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1163986.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Arena Bola (MLY)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1163987.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro Arena (MLY)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1163654.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro Arena 2 (MLY)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/1163655.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Cricket
 http://iptvtree.net:8080/F28312/cc1dc138/157565
@@ -1470,6 +1534,19 @@ http://203.80.165.14:30168/stream/channelid/161131987?profile=pass
 https://live.kands.dpdns.org/pat/677a74a514cb9c94c548daa56eb1d3d121337cfbf53f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", Thairath
 https://live.kands.dpdns.org/pat/636261ba39da8988b548d7b038add6c32c7178bbf4297eda9deb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", SPOTV 2 (TRUE)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/191869.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPORTS 1 (TRUE)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/191753.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPORTS 3 (TRUE)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/191747.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPORTS 5 (TRUE)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/191748.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPORTS 7 (TRUE)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/191755.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE PREMIER 3 (TRUE)
+http://front-main.eagle-4k.me/live/a5n1qj2z7h/z7san35uxz/191875.ts
 
 #EXTINF:-1 group-title="SHAREEXT@THAILAND ➾ Sports" tvg-id="beinSports1thailand.th" tvg-logo="https://i.ibb.co.com/pv41DqDh/20250128-201743.jpg",beINSports 1 TRUE(referer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
