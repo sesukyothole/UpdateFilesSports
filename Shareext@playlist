@@ -5,13 +5,22 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TW: ELTA.SPORTS.1.爱尔达体育1
-http://free.cnlive.club/channel/n6cd87fd/index.m3u8?q=1752629214236 
+http://47.91.17.126:20002/Smartv.php?id=eltasport1_twn 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TW: ELTA.SPORTS.2.爱尔达体育2
-http://cnlive.org/channel/723ab075/index.m3u8?q=1758062858372 
+http://47.91.17.126:20002/Smartv.php?id=eltasport2_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TW: ELTA.SPORTS.3.爱尔达体育3
-http://cnlive.org/channel/723ab094/index.m3u8?q=1758062858372
+http://47.91.17.126:20002/Smartv.php?id=eltasport3_twn
+#EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="ShareExt@Relax",TDM Sports (720p)
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax", cctv•5
+http://1.24.190.98:10080/hls/5/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax", cctv•5plus
+http://1.24.190.98:10080/hls/16/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax", cctv•16 sports
+http://sakura.dynv6.net:64785/rtp/239.111.205.133:5140
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax", CCTV 5+ (CHN)
+http://125.227.210.55:8177/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="ShareExt@Relax",CHAMPIONS TV 1 (V+)
 http://103.179.182.117:6768/hls/66/66.m3u8
@@ -191,49 +200,7 @@ http://iptvtree.net:8080/F28312/cc1dc138/299947
 http://iptvtree.net:8080/F28312/cc1dc138/290365
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", PH: PBA Rush.
 http://iptvtree.net:8080/F28312/cc1dc138/299950
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", PPTV Thailand
-https://live.kands.dpdns.org/pat/677a74a514cb9c94c548daa56eb1d3d121337cfbf53f.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", Thairath
-https://live.kands.dpdns.org/pat/636261ba39da8988b548d7b038add6c32c7178bbf4297eda9deb.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", HOP_Sports (TWN)
-http://iptv.4666888.xyz/iptv.php?id=20311
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Elta Sports 1. (TWN)爱尔达体育1
-http://iptv.4666888.xyz/iptv.php?id=20232
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Elta Sports 2. (TWN)爱尔达体育2
-http://iptv.4666888.xyz/iptv.php?id=20233
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Elta Sports 3. (TWN)爱尔达体育3
-http://iptv.4666888.xyz/iptv.php?id=20234
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", Elta Sports 4. (TWN)爱尔达体育4
-http://iptv.4666888.xyz/iptv.php?id=20235
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯运动 1 (CHN)
-http://iptv.4666888.xyz/iptv.php?id=20263
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯运动 2 (CHN)
-http://iptv.4666888.xyz/iptv.php?id=20264
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯高球 1 (CHN)
-http://iptv.4666888.xyz/iptv.php?id=20266
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯高球 2 (CHN)
-http://iptv.4666888.xyz/iptv.php?id=20265
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯网球 (CHN)
-http://iptv.4666888.xyz/iptv.php?id=20267
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", 博斯无限 (CHN)
-http://iptv.4666888.xyz/iptv.php?id=20268
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NBA_sporttv 
-http://iptv.4666888.xyz/iptv.php?id=20093
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", PPTV (TH)
-https://live.kands.dpdns.org/pat/677a74a514cb9c94c548daa56eb1d3d121337cfbf53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", Thairath (TH)
-https://live.kands.dpdns.org/pat/636261ba39da8988b548d7b038add6c32c7178bbf4297eda9deb
-#EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="ShareExt@Relax",TDM Sports (720p)
-https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax", cctv•5
-https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax", cctv•5plus
-https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5plus
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax", cctv•16 sports
-https://pixman.mytvsuper.com.mp/Smart.php?id=cctv16
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax", CCTV 5+ (CHN)
-http://125.227.210.55:8177/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", GAORA SPORTS (JPN)
 https://mt01.utako.moe/gaora/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", JAPAN SPORTS 1
@@ -245,8 +212,6 @@ https://mt01.utako.moe/js3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", JAPAN SPORTS 4
 https://mt01.utako.moe/js4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO ARENA
-https://live.kands.dpdns.org/pat/567865bd2a948d8c8b41daad64a994cf666829.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO CRICKET (PLAY)
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1036490&extension=ts&play_token=9T203wVU4U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO SPORTS PLUS (PLAY)
