@@ -11,7 +11,7 @@ http://47.91.17.126:20002/Smartv.php?id=eltasport1_twn
 http://47.91.17.126:20002/Smartv.php?id=eltasport2_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TW: ELTA.SPORTS.3.爱尔达体育3
 http://47.91.17.126:20002/Smartv.php?id=eltasport3_twn
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TW: ELTA.SPORTS.4.爱尔达体育3
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TW: ELTA.SPORTS.4.爱尔达体育4
 http://47.91.17.126:20002/Smartv.php?id=eltasport4_twn
 #EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="ShareExt@Relax",TDM Sports (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
@@ -39,11 +39,10 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",VV纬来体育_TW
-rtmp://f13h.mine.nu:1935/sat/tv721
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",DAZN/ELEVEN体育1_TW
-rtmp://f13h.mine.nu:1935/sat/tv731
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",DAZN/ELEVEN体育2_TW
-rtmp://f13h.mine.nu:1935/sat/tv741
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="ShareExt@Relax",CHAMPIONS TV 1 (V+)
 http://103.179.182.117:6768/hls/66/66.m3u8
