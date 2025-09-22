@@ -11,16 +11,37 @@ http://47.91.17.126:20002/Smartv.php?id=eltasport1_twn
 http://47.91.17.126:20002/Smartv.php?id=eltasport2_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TW: ELTA.SPORTS.3.爱尔达体育3
 http://47.91.17.126:20002/Smartv.php?id=eltasport3_twn
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TW: ELTA.SPORTS.4.爱尔达体育3
+http://47.91.17.126:20002/Smartv.php?id=eltasport4_twn
 #EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="ShareExt@Relax",TDM Sports (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax", cctv•5
-http://1.24.190.98:10080/hls/5/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax", cctv•5plus
-http://1.24.190.98:10080/hls/16/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax", cctv•16 sports
-http://sakura.dynv6.net:64785/rtp/239.111.205.133:5140
+http://111.43.126.240:9003/hls/29/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax", CCTV 5+ (CHN)
 http://125.227.210.55:8177/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax", cctv 5 (backUp)
+http://111.43.126.240:9003/hls/17/index.m3u8
+#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax",CCTV 5+ (backUp)
+http://111.43.126.240:9003/hls/18/index.m3u8
+#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax",CCTV 16 (backUp)
+http://111.43.126.240:9003/hls/29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="ShareExt@Relax",SPOTV PRIME_KR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU",SPOTV PRIME+_KR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",VV纬来体育_TW
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",DAZN/ELEVEN体育1_TW
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",DAZN/ELEVEN体育2_TW
+rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="ShareExt@Relax",CHAMPIONS TV 1 (V+)
 http://103.179.182.117:6768/hls/66/66.m3u8
@@ -212,19 +233,6 @@ https://mt01.utako.moe/js3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", JAPAN SPORTS 4
 https://mt01.utako.moe/js4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO CRICKET (PLAY)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1036490&extension=ts&play_token=9T203wVU4U
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO SPORTS PLUS (PLAY)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=554968&extension=ts&play_token=fDqa7h4Y0c
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO PREMIER LEAGUE (PLAY)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=571245&extension=ts&play_token=DN0WCkw1Yv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO FOOTBALL (PLAY)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=571246&extension=ts&play_token=DN0WCkw1Yv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO GRANDSTAND (PLAY)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=571245&extension=ts&play_token=DN0WCkw1Yv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO PREMIER LEAGUE 2 (PLAY)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=571245&extension=ts&play_token=DN0WCkw1Yv
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",NOW SPORTS PRIME (HK)
 http://ringo4532.xyz/play/live.php?mac=00:1A:79:51:D2:FD&stream=313830&extension=ts&play_token=YnFwg07NPo
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",NOW SPORTS 4K 1 (HK)
@@ -244,19 +252,6 @@ http://ringo4532.xyz/play/live.php?mac=00:1A:79:51:D2:FD&stream=313827&extension
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",NOW PREMIER 6 (HK)
 http://ringo4532.xyz/play/live.php?mac=00:1A:79:51:D2:FD&stream=313828&extension=ts&play_token=YnFwg07NPo
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",NOW.PREMIER.1 (HK)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1110622&extension=ts&play_token=E3qr8IdyC5
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",NOW.SPORTS.2 (HK)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1110616&extension=ts&play_token=E3qr8IdyC5
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",NOW.SPORTS.3 (HK)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1110617&extension=ts&play_token=E3qr8IdyC5
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB.SPORTS.1 (SG)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1110667&extension=ts&play_token=6ynjdIESYK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB.SPORTS.2 (SG)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1110666&extension=ts&play_token=6ynjdIESYK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB.SPORTS.3 (SG)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1110665&extension=ts&play_token=6ynjdIESYK
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB PREMIER 1 (UK)
 http://ringo4532.xyz/play/live.php?mac=00:1A:79:51:D2:FD&stream=264396&extension=ts&play_token=fHESw29z3H
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",HUB PREMIER 2 (UK)
@@ -282,31 +277,6 @@ http://ringo4532.xyz/play/live.php?mac=00:1A:79:51:D2:FD&stream=304468&extension
 http://ringo4532.xyz/play/live.php?mac=00:1A:79:51:D2:FD&stream=304469&extension=ts&play_token=xKTTOQaNcF
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax",OPTUS SPORTS 3 (AUS) LIVE EVENT
 http://ringo4532.xyz/play/live.php?mac=00:1A:79:51:D2:FD&stream=304470&extension=ts&play_token=xKTTOQaNcF
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SSC 1 HD (ARB)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1002801&extension=ts&play_token=zx48RmxrR9
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SSC 2 HD (ARB)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1002793&extension=ts&play_token=SgSCgCKME8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SSC 3 HD (ARB)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1002785&extension=ts&play_token=DQSMofqrqV
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SSC 4 HD (ARB)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1002778&extension=ts&play_token=Ru91b7OLSu
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SSC 5 HD (ARB)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1433958&extension=ts&play_token=OKe9ZfuTCI
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SSC XTRA 1 (ARB)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1433957&extension=ts&play_token=hkt5geMjMd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SSC EXTRA 2 (ARB)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1433956&extension=ts&play_token=hkt5geMjMd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SSC EXTRA 3 (ARB)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1433955&extension=ts&play_token=hkt5geMjMd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 1 (INDIE)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1114576&extension=ts&play_token=lx7sYCmZKy
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 2 (INDIE)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1114577&extension=ts&play_token=lx7sYCmZKy
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 3 (INDIE)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1114578&extension=ts&play_token=lx7sYCmZKy
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 4 (INDIE)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1114579&extension=ts&play_token=lx7sYCmZKy
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -343,29 +313,6 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/157591.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg", TVRI SPORTS (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://iptvtree.net:8080/F28312/cc1dc138/166686
-
-#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax",CCTV 5
-http://111.43.126.240:9003/hls/17/index.m3u8
-#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax",CCTV 5+
-http://111.43.126.240:9003/hls/18/index.m3u8
-#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax",CCTV 16
-http://111.43.126.240:9003/hls/29/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/TVRI-Sport-HD.png" group-title="ShareExt@Relax",TVRI SPORT HD 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="ShareExt@Relax",SPOTV PRIME_KR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU",SPOTV PRIME+_KR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",VV纬来体育_TW
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",DAZN/ELEVEN体育1_TW
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",DAZN/ELEVEN体育2_TW
-rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8G1nYeEaXoR1yoBfVx6paYswmZj8WHBZ2sw&s",SPORTTV.1_FIFA CLUB WORLDCUP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
