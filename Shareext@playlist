@@ -67,7 +67,7 @@ http://47.91.17.126:20002/Smartv.php?id=videolandsport
 http://47.91.17.126:20002/Smartv.php?id=dazn1_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", DAZN 2_TWN
 http://47.91.17.126:20002/Smartv.php?id=dazn2_twn
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", GOLF.CHANNEL_TWN
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", dazn 1_TWN
 http://47.91.17.126:20002/Smartv.php?id=golfchannel_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", SPORT1_TWN.博斯運動 1
 http://47.91.17.126:20002/Smartv.php?id=bosisport1_twn
@@ -915,11 +915,11 @@ http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1165889.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BEINSPORTS 5 (V+)
 http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1165890.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Astro Beinsports 1
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", .Astro Beinsports 1
 http://47.91.17.126:20002/Smartv.php?id=Astrobein1
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Astro Beinsports 2
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", .Astro Beinsports 2
 http://47.91.17.126:20002/Smartv.php?id=Astrobein2
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Astro Beinsports 3
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", .Astro Beinsports 3
 http://47.91.17.126:20002/Smartv.php?id=Astrobein3
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",QA: beINSports 1
