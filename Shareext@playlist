@@ -246,6 +246,41 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", Edge Sport (TH)
 http://203.80.165.14:30168/stream/channelid/161131987?profile=pass
 
+
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7d8ca02d8a1abfbf18a1993f8ed669f1.png" group-title="ShareExt@Relax", SSC 1
+http://iptvtree.net:8080/F28312/cc1dc138/280132
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/e0ea981e0a90f7ddf716f269154d3925.png" group-title="ShareExt@Relax", SSC 2
+http://iptvtree.net:8080/F28312/cc1dc138/280137
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/b3fd86edcadc219abf9e193c44d4daa0.png" group-title="ShareExt@Relax", SSC 3
+http://iptvtree.net:8080/F28312/cc1dc138/280134
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dd5b9adc01f4d38a7291c8e042ef6199.png" group-title="ShareExt@Relax", SSC 4
+http://iptvtree.net:8080/F28312/cc1dc138/280133
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/0dfbee45bdbdde5a0fe41c43b15098f3.png" group-title="ShareExt@Relax", SSC 5
+http://iptvtree.net:8080/F28312/cc1dc138/280135
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/f53327d1f338988a04f24537da4e8e6f.png" group-title="ShareExt@Relax", SSC Extra 1
+http://iptvtree.net:8080/F28312/cc1dc138/280136
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/69228f4aa2e4d1b1fdc80d6d99720b00.png" group-title="ShareExt@Relax", SSC Extra 2
+http://iptvtree.net:8080/F28312/cc1dc138/281462
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/797ca4ea5c06b01acd35f5309e54dbc8.png" group-title="ShareExt@Relax", SSC Extra 3
+http://iptvtree.net:8080/F28312/cc1dc138/299730
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1 (Sony Ten 1)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="ShareExt@Relax",IN: Sony Sports Ten 1
+http://iptvtree.net:8080/F28312/cc1dc138/16622
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2 (Sony Ten 2)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="ShareExt@Relax",IN: Sony Sports Ten 2
+http://iptvtree.net:8080/F28312/cc1dc138/16621
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3 (Sony Ten 3)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="ShareExt@Relax",IN: Sony Sports Ten 3
+http://iptvtree.net:8080/F28312/cc1dc138/56191
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="ShareExt@Relax",IN: StarSports 1
+http://iptvtree.net:8080/F28312/cc1dc138/3630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="ShareExt@Relax",IN: StarSports 2
+http://iptvtree.net:8080/F28312/cc1dc138/3631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="ShareExt@Relax",IN: StarSports Select 1
+http://iptvtree.net:8080/F28312/cc1dc138/82628
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="ShareExt@Relax",IN: StarSports Select 2
+http://iptvtree.net:8080/F28312/cc1dc138/16619
+#EXTINF:-1 tvg-id="" tvg-name="IN: Willow" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="ShareExt@Relax",IN: Willow
+http://iptvtree.net:8080/F28312/cc1dc138/165776
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", Adu Ayam (HI Sport)_ TH HD
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", HI Fight HD
