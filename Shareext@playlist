@@ -5,10 +5,6 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", Champion 3
-http://ip96.uk:8080/live/989898/989898/302283.ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR.HD•
-http://ip96.uk:8080/live/989898/989898/302264.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TW: ELTA.SPORTS.1.爱尔达体育1
 http://47.91.17.126:20002/Smartv.php?id=eltasport1_twn 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TW: ELTA.SPORTS.2.爱尔达体育2
@@ -28,17 +24,11 @@ http://125.227.210.55:8177/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://203.80.165.14:30168/imagecache/6" group-title="ShareExt@Relax",K+ Sports 1
 http://203.80.165.14:30168/stream/channelid/1800362794?profile=pass
 
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax", cctv 5 (backUp)
-http://111.43.126.240:9003/hls/17/index.m3u8
-#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax",CCTV 5+ (backUp)
-http://111.43.126.240:9003/hls/18/index.m3u8
-#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax",CCTV 16 (backUp)
-http://111.43.126.240:9003/hls/29/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax", cctv 5 (backUp.2)
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax", cctv 5 (backUp.)
 http://tv543.cc/Smart.php?id=cctv5
-#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax",CCTV 5+ (backUp.2)
+#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax",CCTV 5+ (backUp.)
 http://tv543.cc/Smart.php?id=cctv5plus
-#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax",CCTV 16 (backUp.2)
+#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax",CCTV 16 (backUp.)
 http://tv543.cc/Smart.php?id=cctv16
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="ShareExt@Relax",SPOTV PRIME_KR
@@ -47,19 +37,6 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puE
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU",SPOTV PRIME+_KR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://hls.mskycdn.online/logo/spotv.png", SPOTV1 (Vietnam)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/spotv/index.m3u8
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://hls.mskycdn.online/logo/spotv2.png", SPOTV2 (Vietnam)
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/spotv2/index.m3u8
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png", TV360+1
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2554/index.m3u8
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png", TV360+2
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/1/index.m3u8
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png", TV360+3
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/148/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", VV纬来体育_TWN
 http://47.91.17.126:20002/Smartv.php?id=videolandsport
