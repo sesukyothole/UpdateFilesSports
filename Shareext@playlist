@@ -26,6 +26,36 @@ http://opplex.to:8080/live/5156@sunny/8273636281/350900.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="ShareExt@Relax", SPOTV 2 (OP)
 http://opplex.to:8080/live/5156@sunny/8273636281/350901.ts
 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="ShareExt@Relax",CHAMPIONS TV 1 (Ott.Nav)
+https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions2.jpg?raw=true" group-title="ShareExt@Relax",CHAMPIONS TV 2 (Ott.Nav)
+https://bitter-boa-67.deno.dev/play.mpd?id=17939&type=dash
+
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions3.jpg?raw=true" group-title="ShareExt@Relax",CHAMPIONS TV 3 (Ott.Nav)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
+https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions5.jpg?raw=true" group-title="ShareExt@Relax",CHAMPIONS TV 5 (Ott.Nav)
+https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions6.jpg?raw=true" group-title="ShareExt@Relax",CHAMPIONS TV 6 (Ott.Nav)
+https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax",SCTV HD
 http://protv.fun/play/live.php?mac=00:1a:79:bc:32:6b&stream=1919514&extension=ts&play_token=RmCXuLvl2S
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax",INDOSIAR
@@ -190,8 +220,70 @@ http://tv543.cc/Smart.php?id=cctv5plus
 #EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax",CCTV 16 (backUp.)
 http://tv543.cc/Smart.php?id=cctv16
 
-
-
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS 1 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/841.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS 2 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/842.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS 3 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/843.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS 4 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/844.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS 5 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/845.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS 6 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/846.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS 7 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/847.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS 8 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/132370.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS 9 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/132371.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS PREMIUM 1 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/853.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS PREMIUM 2 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/854.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS PREMIUM 3 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/855.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS MAX 1 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/835.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS MAX 2 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/836.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS MAX 3 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/837.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS MAX 4 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/838.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS MAX 6 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/840.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS ENG 1 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/848.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS ENG 2 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/849.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS ENG 3 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/850.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS NBA (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/851.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS NEWS (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/852.ts
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: BEIN SPORTS XTRA 1 (A)
+http://viphlvp.xyz:8080/live/12345678/87654321/856.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",FR: RMC SPORT 1
+http://viphlvp.xyz:8080/live/12345678/87654321/388.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",FR: RMC SPORT 2
+http://viphlvp.xyz:8080/live/12345678/87654321/389.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",FR: RMC SPORT 3
+http://viphlvp.xyz:8080/live/12345678/87654321/390.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",FR: RMC SPORT 4
+http://viphlvp.xyz:8080/live/12345678/87654321/391.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",UK: TNT Sports 1 HD
+http://viphlvp.xyz:8080/live/12345678/87654321/147028.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",UK: TNT Sports 2 HD
+http://viphlvp.xyz:8080/live/12345678/87654321/147029.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",UK: TNT Sports 3 HD
+http://viphlvp.xyz:8080/live/12345678/87654321/147030.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",UK: TNT Sports 4 HD
+http://viphlvp.xyz:8080/live/12345678/87654321/147031
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",UK: TNT SPORTS 5
+http://viphlvp.xyz:8080/live/12345678/87654321/146591.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 1 HD" tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: beINSPORTS 1 HD (B)
 http://0amoy91hrw.redplus.me:80/live/VinciDiv/26092021/200798.ts
