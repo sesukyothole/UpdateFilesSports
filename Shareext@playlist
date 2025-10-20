@@ -422,31 +422,31 @@ http://47.91.17.126:20002/Smartv.php?id=go_spotv
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_spotv2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Rugby Pass TV
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rugbypasstv/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Rugbypasstv
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",RTM Sports HD
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rtmsport/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Rtmsport
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO.Arena
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Arena/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Arena
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO.Arena 2
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Arena2/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Arena2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",BolaArena 1
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena1/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Bolaarena1
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",BolaArena 2
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena2/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Bolaarena2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Beinsports 1
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Astrobein1/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Astrobein1
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Beinsports 2
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Astrobein2/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Astrobein2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Beinsports 3
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Astrobein3/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Astrobein3
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" group-title="ShareExt@Relax" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel (V+)
