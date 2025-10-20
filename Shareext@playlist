@@ -68,6 +68,25 @@ http://103.66.62.83:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", WORLD FISHING-SPORT (Play.2)
 http://103.66.62.83:8000/play/a03b/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",INDOSIAR HD (Play.1)
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",SCTV HD (Play.1)
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TVRI Sport HD (Play.1)
+http://103.170.33.11:9981/stream/channelid/768175194?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRANS TV HD (Play.1)
+http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRANS 7 HD (Play.1)
+http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",MOJI HD (Play.1)
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",MENTARITV HD (Play.1)
+http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",ANTV HD (Play.1)
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TVONE HD (Play.1)
+http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
+
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png", RCTI (VIP )
 http://viphlvp.xyz:8080/12345678/87654321/34322
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (VIP)
@@ -1309,7 +1328,56 @@ http://iptvtree.net:8080/F28312/cc1dc138/245622
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD" tvg-logo="http://195.154.136.206/Bein/New/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BeinSport HD⚽
+http://aromatv.co:80/Enjy3637/4JFEBAs359/70359
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport News HD" tvg-logo="http://195.154.136.206/Bein/New/NEWS_DIGITAL_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BeinSport News HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/70360
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BEIN SPORTS 1 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/463475
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://195.154.136.206/Bein/sport/Bein2.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BEIN SPORTS 2 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/5919
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://195.154.136.206/Bein/sport/Bein3.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BEIN SPORTS 3 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/5920
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BEIN SPORTS 4 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/358723
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="SHAREEXT@ BEINSPORTS || GROUP",BEIN SPORTS 5 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/416366
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="http://195.154.136.206/Bein/sport/Bein6.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BEIN SPORTS 6 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/5923
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="http://195.154.136.206/Bein/sport/Bein7.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BEIN SPORTS 7 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/5924
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BEIN SPORTS 8 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/358724
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BEIN SPORTS 9 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/472918
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC HD" tvg-logo="https://beinsports.group/wp-content/uploads/2021/12/bein-logo.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Bein Sport AFC HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/420710
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 HD" tvg-logo="https://beinsports.group/wp-content/uploads/2021/12/bein-logo.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Bein Sport AFC 1 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/420711
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 2 HD" tvg-logo="https://beinsports.group/wp-content/uploads/2021/12/bein-logo.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Bein Sport AFC 2 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/420712
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 3 HD" tvg-logo="https://beinsports.group/wp-content/uploads/2021/12/bein-logo.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Bein Sport AFC 3 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/420713
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4 HD" tvg-logo="https://beinsports.group/wp-content/uploads/2021/12/bein-logo.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Bein Sport AFC 4 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/420714
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 5 HD" tvg-logo="https://beinsports.group/wp-content/uploads/2021/12/bein-logo.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Bein Sport AFC 5 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/420715
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",beIN SPORT XTRA 1 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/293347
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",beIN SPORT XTRA 2 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/293348
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 3 HD" tvg-logo="http://195.154.136.206/Bein/New/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",beIN Sport EXTRA 3 HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/5927
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English HD1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Bein Sports English HD1
+http://aromatv.co:80/Enjy3637/4JFEBAs359/231956
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English HD2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Bein Sports English HD2
+http://aromatv.co:80/Enjy3637/4JFEBAs359/231957
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports French HD1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Bein Sports French HD1
+http://aromatv.co:80/Enjy3637/4JFEBAs359/231959
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports French HD2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",Bein Sports French HD2
+http://aromatv.co:80/Enjy3637/4JFEBAs359/231960
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports NBA HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NBA_DIGITAL_Mono.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",BeIN Sports NBA HD
+http://aromatv.co:80/Enjy3637/4JFEBAs359/231961
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", .Astro Beinsports 1
 http://47.91.17.126:20002/Smartv.php?id=Astrobein1
@@ -2462,6 +2530,30 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK  HD" tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title='ShareExt@FIGHT_Sports",WWE NETWORK  HD
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/99628.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",UFC TV
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/99629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smackdown 1 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10375423694237.png" group-title="ShareExt@FIGHT_Sports",Smackdown 1 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58378.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smackdown 2 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10375423694237.png" group-title="ShareExt@FIGHT_Sports",Smackdown 2 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58379.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smackdown 3 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10375423694237.png" group-title="ShareExt@FIGHT_Sports",Smackdown 3 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58380.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nxt 1 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10826014619735.png" group-title="ShareExt@FIGHT_Sports",Nxt 1 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58381.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Nxt 2 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10826014619735.png" group-title="ShareExt@FIGHT_Sports",Nxt 2 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58382.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nxt 3 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10826014619735.png" group-title="ShareExt@FIGHT_Sports",Nxt 3 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58383.ts
+#EXTINF:-1 tvg-id="" tvg-name="Raw 1 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10329448166304.png" group-title="ShareExt@FIGHT_Sports",Raw 1 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58384.ts
+#EXTINF:-1 tvg-id="" tvg-name="Raw 2 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10329448166304.png" group-title="ShareExt@FIGHT_Sports",Raw 2 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58385.ts
+#EXTINF:-1 tvg-id="" tvg-name="Raw 3 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10329448166304.png" group-title="ShareExt@FIGHT_Sports",Raw 3 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58386.ts
 
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png", Fighting TV Samurai (JPN) 
 https://ca01.utako.moe/fighting_tv/index.m3u8
