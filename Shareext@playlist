@@ -341,76 +341,112 @@ http://0amoy91hrw.redplus.me:80/live/VinciDiv/26092021/200815.ts
 http://0amoy91hrw.redplus.me:80/live/VinciDiv/26092021/200816.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", VV纬来体育_TWN
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/videolandsport/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=videolandsport
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", DAZN 1_TWN
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/dazn1_twn/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=dazn1_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", DAZN 2_TWN
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/dazn2_twn/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=dazn2_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", dazn 1_TWN
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/golfchannel_twn/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=golfchannel_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", SPORT1_TWN.博斯運動 1
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/bosisport1_twn/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=bosisport1_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", SPORT2_TWN.博斯運動 2
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/bosisport2_twn/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=bosisport2_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", GOLF2_TWN.博斯高球2 HD
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/bosigolf2_twn/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=bosigolf2_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", TENNIS_TWN.博斯網球 HD
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/bositennis_twn/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=bositennis_twn
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Premier League 1
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp1/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_assp1
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Premier League 2
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp2/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_assp2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Grandstand
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp3/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_assp3
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Football
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp4/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_assp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Sports Plus
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_sportsplus/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_sportsplus
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Badminton 1
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_badminton1/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_badminton1
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Badminton 2
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_badminton2/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_badminton2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro W-Sports
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp5/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_assp5
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Supersports 1
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Assp1/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Assp1
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Supersports 2
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Assp2/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Assp2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Supersports 3
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Assp3/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Assp3
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Supersports 4
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Assp4/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Assp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",WWE
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Wwe/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Wwe
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Fight Sports
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Fs/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Fs
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",NBA TV
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Nba/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Nba
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Cricket
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Acricket/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Acricket
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Golf
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Agolf/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Agolf
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",SPOTV 1 HD_MLY
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_spotv
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",SPOTV 2 HD_MLY
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=go_spotv2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Rugby Pass TV
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Rugbypasstv
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",RTM Sports HD
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Rtmsport
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO.Arena
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Arena
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO.Arena 2
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Arena2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",BolaArena 1
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Bolaarena1
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",BolaArena 2
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Bolaarena2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Beinsports 1
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Astrobein1
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Beinsports 2
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Astrobein2
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro Beinsports 3
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ /playlist.m3u8
 http://47.91.17.126:20002/Smartv.php?id=Astrobein3
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" group-title="ShareExt@Relax" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel (V+)
