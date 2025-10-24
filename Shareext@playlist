@@ -680,7 +680,61 @@ https://7pal.short.gy/ssportspl
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/espn.png" group-title="SHAREEXT@ MPD || SPORTS",ESPN(SPAIN)
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/espn2.png" group-title="SHAREEXT@ MPD || SPORTS",ESPN 2(SPAIN)
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/espn3.png" group-title="SHAREEXT@ MPD || SPORTS",ESPN 3(SPAIN)
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/espn4.png" group-title="SHAREEXT@ MPD || SPORTS",ESPN 4(SPAIN)
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/espn5.png" group-title="SHAREEXT@ MPD || SPORTS",Espn 5(SPAIN)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/espn6.png" group-title="SHAREEXT@ MPD || SPORTS",Espn 6(SPAIN)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/espn7.png" group-title="SHAREEXT@ MPD || SPORTS",Espn 7(SPAIN)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="SHAREEXT@ MPD || SPORTS",Claro Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="SHAREEXT@ MPD || SPORTS", ZIGGO SPORT 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2302,7 +2356,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK  HD" tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title='ShareExt@FIGHT_Sports",WWE NETWORK  HD
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK  HD" tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",WWE NETWORK  HD
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/99628.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",UFC TV
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/99629.ts
@@ -2415,6 +2469,59 @@ http://iptvtree.net:8080/F28312/cc1dc138/291182
 http://iptvtree.net:8080/F28312/cc1dc138/306012
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", A BOLA TV
+http://supersonictv.live:8080/Bobby1/Bobby1/7587
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", BENFICA TV 1
+http://supersonictv.live:8080/Bobby1/Bobby1/7599
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", CANAL 11
+http://supersonictv.live:8080/Bobby1/Bobby1/7603
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", CAçA E PESCA HD
+http://supersonictv.live:8080/Bobby1/Bobby1/7612
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", COMBATE HD
+http://supersonictv.live:8080/Bobby1/Bobby1/7619
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", KOMBAT SPORT
+http://supersonictv.live:8080/Bobby1/Bobby1/7661
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", DAZN_ ELEVEN SPORTS 1
+http://supersonictv.live:8080/Bobby1/Bobby1/7626
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", DAZN_ ELEVEN SPORTS 2
+http://supersonictv.live:8080/Bobby1/Bobby1/7628
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", DAZN_ ELEVEN SPORTS 3
+http://supersonictv.live:8080/Bobby1/Bobby1/7630
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", DAZN_ ELEVEN SPORTS 4
+http://supersonictv.live:8080/Bobby1/Bobby1/7632
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", DAZN_ ELEVEN SPORTS 5
+http://supersonictv.live:8080/Bobby1/Bobby1/7634
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", DAZN_ ELEVEN SPORTS 6
+http://supersonictv.live:8080/Bobby1/Bobby1/7636
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", EUROSPORT 1
+http://supersonictv.live:8080/Bobby1/Bobby1/7641
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", EUROSPORT 2
+http://supersonictv.live:8080/Bobby1/Bobby1/7643
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", FUEL TV HD
+http://supersonictv.live:8080/Bobby1/Bobby1/7655
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", MOTORVISION HD
+http://supersonictv.live:8080/Bobby1/Bobby1/7669
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", NBA TV HD
+http://supersonictv.live:8080/Bobby1/Bobby1/7675
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", PORTO CANAL HD
+http://supersonictv.live:8080/Bobby1/Bobby1/7681
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", SPORT TV
+http://supersonictv.live:8080/Bobby1/Bobby1/7702
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", SPORT TV 1
+http://supersonictv.live:8080/Bobby1/Bobby1/7704
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", SPORT TV 2
+http://supersonictv.live:8080/Bobby1/Bobby1/7706
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", SPORT TV 3
+http://supersonictv.live:8080/Bobby1/Bobby1/7708
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", SPORT TV 4
+http://supersonictv.live:8080/Bobby1/Bobby1/7710
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", SPORT TV 5
+http://supersonictv.live:8080/Bobby1/Bobby1/7713
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", SPORTING TV HD
+http://supersonictv.live:8080/Bobby1/Bobby1/7715
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@ PORTUGAL || SPORTS", TOROS TV
+http://supersonictv.live:8080/Bobby1/Bobby1/7720
 
 
 
@@ -2532,6 +2639,143 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://i.imgur.com/4xO7aRX.png" tvg-country="FR" group-title="SHAREEXT@FRANCE ➾  SPORT",RACING 6 [NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing6.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", MAVTV
+http://supersonictv.live:8080/Bobby1/Bobby1/22117
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", UFC Network
+http://supersonictv.live:8080/Bobby1/Bobby1/22177
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", WWE Network UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/22185
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Fight Network
+http://supersonictv.live:8080/Bobby1/Bobby1/40397
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", FS 1
+http://supersonictv.live:8080/Bobby1/Bobby1/40398
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", FS 2
+http://supersonictv.live:8080/Bobby1/Bobby1/40399
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Stadium UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40428
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Stadium 1 UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40429
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", World Fishing Network
+http://supersonictv.live:8080/Bobby1/Bobby1/22183
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Bein Sports N Espanol UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/22195
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", BeIN Sports LaLiga
+http://supersonictv.live:8080/Bobby1/Bobby1/22196
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", ESPN UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/22198
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", ESPN 2 UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/22199
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", ESPNU UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/22202
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Longhorn Network LHD
+http://supersonictv.live:8080/Bobby1/Bobby1/22207
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", ESPN SEC Network 
+http://supersonictv.live:8080/Bobby1/Bobby1/22208
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", ESPN Deportes UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/22222
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", ACC Network
+http://supersonictv.live:8080/Bobby1/Bobby1/40389
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", CBS Sport Network UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40395
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Golf UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40401
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", MLB Network UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40402
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", MSG
+http://supersonictv.live:8080/Bobby1/Bobby1/40404
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", MSGPlus
+http://supersonictv.live:8080/Bobby1/Bobby1/40405
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", MSG2
+http://supersonictv.live:8080/Bobby1/Bobby1/40406
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Marquee Sports Network
+http://supersonictv.live:8080/Bobby1/Bobby1/40408
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", NBA TV UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40409
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", NESN 
+http://supersonictv.live:8080/Bobby1/Bobby1/40410
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", NESN Plus
+http://supersonictv.live:8080/Bobby1/Bobby1/40411
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", NFL Network UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40412
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", NHL Network UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40413
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Tennis Channel UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40433
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", The Golf Channel
+http://supersonictv.live:8080/Bobby1/Bobby1/40434
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", TyC Sports
+http://supersonictv.live:8080/Bobby1/Bobby1/40435
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Willow Cricket
+http://supersonictv.live:8080/Bobby1/Bobby1/40436
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Willow Cricket Extra
+http://supersonictv.live:8080/Bobby1/Bobby1/40437
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", YES Network UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40438
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Fight Box
+http://supersonictv.live:8080/Bobby1/Bobby1/47750
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Fubo Sports Network
+http://supersonictv.live:8080/Bobby1/Bobby1/47752
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Gnix Sports TV
+http://supersonictv.live:8080/Bobby1/Bobby1/47753
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Sportsman 
+http://supersonictv.live:8080/Bobby1/Bobby1/47754
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JGqN-L9KhIQ/WMBKT4-R3rI/AAAAAAAADUs/bY3a0dLMsc8SI_cSfylUfR71LUsopzwTACLcB/s1600/racing-hd.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS",FoxSports Racing
+http://supersonictv.live:8080/Bobby1/Bobby1/40462
+#EXTINF:-1 tvg-id="UK: BoxNation" tvg-name="UK BoxNation HD" tvg-logo="https://www.boxnation.com/images/boxnation-logo.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BoxNation HD
+http://supersonictv.live:8080/Bobby1/Bobby1/40439
+#EXTINF:-1 tvg-id="UK: BTSpt//ESPNHD" tvg-name="UK BT Sport ESPN HD" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sport ESPN HD
+http://supersonictv.live:8080/Bobby1/Bobby1/40440
+#EXTINF:-1 tvg-id="UK: BT Sport 1" tvg-name="UK BT Sports 1 UHD" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sports 1 UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40441
+#EXTINF:-1 tvg-id="UK: BT Sport 2" tvg-name="UK BT Sports 2 UHD" tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sports 2 UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40442
+#EXTINF:-1 tvg-id="UK: BT Sport 3" tvg-name="UK BT Sports 3 UHD" tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sports 3 UHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40443
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport Extra 1 (Live Match Only)" tvg-logo="https://sport-tv-guide.live/images/stations/a101.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sport Extra 1 (Live Match Only)
+http://supersonictv.live:8080/Bobby1/Bobby1/40444
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport Extra 2 (Live Match Only)" tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_2.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sport Extra 2 (Live Match Only)
+http://supersonictv.live:8080/Bobby1/Bobby1/40445
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport Extra 3 (Live Match Only)" tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_3.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sport Extra 3 (Live Match Only)
+http://supersonictv.live:8080/Bobby1/Bobby1/40446
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport Extra 4 (Live Match Only)" tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_4.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sport Extra 4 (Live Match Only)
+http://supersonictv.live:8080/Bobby1/Bobby1/40447
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sports Extra 5 (live match only)" tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_4.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sports Extra 5 (live match only)
+http://supersonictv.live:8080/Bobby1/Bobby1/40448
+#EXTINF:-1 tvg-id="UK: EIR SPORT 1" tvg-name="UK Eir Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Eirsport1logo.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Eir Sport 1 HD
+http://supersonictv.live:8080/Bobby1/Bobby1/40449
+#EXTINF:-1 tvg-id="UK: EIR SPORT 2" tvg-name="UK Eir Sport 2" tvg-logo="https://ballteng99.tv/wp-content/themes/ballteng99/assets/images/channal/eirSport2.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Eir Sport 2
+http://supersonictv.live:8080/Bobby1/Bobby1/40450
+#EXTINF:-1 tvg-id="UK: Eurosport 1 HD" tvg-name="[UK] Eurosport 1 FHD" tvg-logo="https://banner2.cleanpng.com/20180622/gto/kisspng-eurosport-1-high-definition-television-television-5b2cbfa6baacc7.8238924215296593027646.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Eurosport 1 FHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40451
+#EXTINF:-1 tvg-id="UK: Eurosport 2 HD" tvg-name="[UK] Eurosport 2 FHD VIP" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1150.1443374382.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Eurosport 2 FHD
+http://supersonictv.live:8080/Bobby1/Bobby1/40452
+#EXTINF:-1 tvg-id="UK: SkySp Racing" tvg-name="UK Sky Sport Racing HD" tvg-logo="https://1.bp.blogspot.com/-JGqN-L9KhIQ/WMBKT4-R3rI/AAAAAAAADUs/bY3a0dLMsc8SI_cSfylUfR71LUsopzwTACLcB/s1600/racing-hd.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sport Racing HD
+http://supersonictv.live:8080/Bobby1/Bobby1/78145
+#EXTINF:-1 tvg-id="UK: SkySp Action" tvg-name="UK Sky Sports Action" tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK-1-1280x720.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Action
+http://supersonictv.live:8080/Bobby1/Bobby1/78146
+#EXTINF:-1 tvg-id="UK: SkySp Arena" tvg-name="UK Sky Sports Arena HD" tvg-logo="https://www.webtv.so/uploads/images/channel_141_1516257859_thumb.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Arena HD
+http://supersonictv.live:8080/Bobby1/Bobby1/78147
+#EXTINF:-1 tvg-id="UK: SkySp Cricket" tvg-name="UK Sky Sports Cricket" tvg-logo="https://sportsjournalism.myblog.arts.ac.uk/files/2015/01/JpMroqIH.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Cricket
+http://supersonictv.live:8080/Bobby1/Bobby1/78148
+#EXTINF:-1 tvg-id="UK: SkySp F1" tvg-name="UK Sky Sports F1" tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2016/01/Sky-Sport-F1-HD-IT-CMYK-267136.jp" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports F1
+http://supersonictv.live:8080/Bobby1/Bobby1/78149
+#EXTINF:-1 tvg-id="UK: SkySp Football" tvg-name="UK Sky Sports Football HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Football HD
+http://supersonictv.live:8080/Bobby1/Bobby1/78150
+#EXTINF:-1 tvg-id="UK: SkySp Golf HD" tvg-name="UK Sky Sports Golf HD" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Golf HD
+http://supersonictv.live:8080/Bobby1/Bobby1/78151
+#EXTINF:-1 tvg-id="UK: SkySpMainEv" tvg-name="UK Sky Sports Main Events HD" tvg-logo="https://4.bp.blogspot.com/-6fz4IHYpdg8/WzWW31npvGI/AAAAAAAAAUg/oIwjzlSngxAaUS9EdGQna-LvJBglsmxVgCLcBGAs/s320/download.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Main Events HD
+http://supersonictv.live:8080/Bobby1/Bobby1/78152
+#EXTINF:-1 tvg-id="UK: SkySp Mix HD" tvg-name="UK Sky Sports MIX" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/03/Sky-Sports-Mix.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports MIX
+http://supersonictv.live:8080/Bobby1/Bobby1/78153
+#EXTINF:-1 tvg-id="UK: SkySp News HD" tvg-name="UK Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports News HD
+http://supersonictv.live:8080/Bobby1/Bobby1/78154
+#EXTINF:-1 tvg-id="UK: SkySp PL" tvg-name="UK Sky Sports Premier League HD" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Premier League HD
+http://supersonictv.live:8080/Bobby1/Bobby1/78155
+#EXTINF:-1 tvg-id="UK: SkySp Racing" tvg-name="UK Sky Sports Racing" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Racing
+http://supersonictv.live:8080/Bobby1/Bobby1/78156
 
 
 
