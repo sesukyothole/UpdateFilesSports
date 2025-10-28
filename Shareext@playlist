@@ -104,6 +104,39 @@ http://opplex.to:8080/live/5156@sunny/8273636281/350900.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="ShareExt@Relax", SPOTV 2 (OP)
 http://opplex.to:8080/live/5156@sunny/8273636281/350901.ts
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 1 HD (TATA)
+http://66.102.120.18:8000/play/a002/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 2 HD (TATA)
+http://66.102.120.18:8000/play/a01y/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 3 HD (TATA)
+http://66.102.120.18:8000/play/a001/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 5 HD (TATA)
+http://66.102.120.18:8000/play/a010/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",PTV-SPORTS-HD (TATA)
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",A SportsHD (TATA)
+http://66.102.120.18:8000/play/a032/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",Eurosport HD (TATA)
+http://66.102.120.18:8000/play/a01g/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",FAST SPORTS HD (TATA)
+http://66.102.120.18:8000/play/a05f/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",StarSports 1 HD (TATA)
+http://66.102.120.18:8000/play/a009/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",StarSports 1 Hindi (TATA)
+http://66.102.120.18:8000/play/a00i/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",STARSports2 Hindi HD (TATA)
+http://66.102.120.18:8000/play/a00v/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",STARSPORTS SELECT 1 HD (TATA)
+http://66.102.120.18:8000/play/a06x/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",STARSPORTS SELECT 2 HD (TATA)
+http://66.102.120.18:8000/play/a06y/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",KSA SPORT 1 HD (TATA)
+http://66.102.120.18:8000/play/a03o/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",KSA SPORT 2 HD (TATA)
+http://66.102.120.18:8000/play/a03p/index.m3u8
+
+
+
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
@@ -2357,49 +2390,12 @@ http://supersonictv.live:8080/006779/439866/40441
 http://supersonictv.live:8080/006779/439866/40442
 #EXTINF:-1 tvg-id="UK: BT Sport 3" tvg-name="UK BT Sports 3 UHD" tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sports 3 UHD
 http://supersonictv.live:8080/006779/439866/40443
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport Extra 1 (Live Match Only)" tvg-logo="https://sport-tv-guide.live/images/stations/a101.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sport Extra 1 (Live Match Only)
-http://supersonictv.live:8080/006779/439866/40444
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport Extra 2 (Live Match Only)" tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_2.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sport Extra 2 (Live Match Only)
-http://supersonictv.live:8080/006779/439866/40445
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport Extra 3 (Live Match Only)" tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_3.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sport Extra 3 (Live Match Only)
-http://supersonictv.live:8080/006779/439866/40446
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport Extra 4 (Live Match Only)" tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_4.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sport Extra 4 (Live Match Only)
-http://supersonictv.live:8080/006779/439866/40447
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sports Extra 5 (live match only)" tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_4.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", BT Sports Extra 5 (live match only)
-http://supersonictv.live:8080/006779/439866/40448
-#EXTINF:-1 tvg-id="UK: EIR SPORT 1" tvg-name="UK Eir Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Eirsport1logo.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Eir Sport 1 HD
-http://supersonictv.live:8080/006779/439866/40449
-#EXTINF:-1 tvg-id="UK: EIR SPORT 2" tvg-name="UK Eir Sport 2" tvg-logo="https://ballteng99.tv/wp-content/themes/ballteng99/assets/images/channal/eirSport2.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Eir Sport 2
+#EXTINF:-1 tvg-id="UK: EIR SPORT 2" tvg-name="UK Eir Sport 2" tvg-logo="https://ballteng99.tv/wp-content/themes/ballteng99/assets/images/channal/eirSport2.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", PremierSport 2
 http://supersonictv.live:8080/006779/439866/40450
 #EXTINF:-1 tvg-id="UK: Eurosport 1 HD" tvg-name="[UK] Eurosport 1 FHD" tvg-logo="https://banner2.cleanpng.com/20180622/gto/kisspng-eurosport-1-high-definition-television-television-5b2cbfa6baacc7.8238924215296593027646.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Eurosport 1 FHD
 http://supersonictv.live:8080/006779/439866/40451
 #EXTINF:-1 tvg-id="UK: Eurosport 2 HD" tvg-name="[UK] Eurosport 2 FHD VIP" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1150.1443374382.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Eurosport 2 FHD
 http://supersonictv.live:8080/006779/439866/40452
-#EXTINF:-1 tvg-id="UK: SkySp Racing" tvg-name="UK Sky Sport Racing HD" tvg-logo="https://1.bp.blogspot.com/-JGqN-L9KhIQ/WMBKT4-R3rI/AAAAAAAADUs/bY3a0dLMsc8SI_cSfylUfR71LUsopzwTACLcB/s1600/racing-hd.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sport Racing HD
-http://supersonictv.live:8080/006779/439866/78145
-#EXTINF:-1 tvg-id="UK: SkySp Action" tvg-name="UK Sky Sports Action" tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK-1-1280x720.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Action
-http://supersonictv.live:8080/006779/439866/78146
-#EXTINF:-1 tvg-id="UK: SkySp Arena" tvg-name="UK Sky Sports Arena HD" tvg-logo="https://www.webtv.so/uploads/images/channel_141_1516257859_thumb.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Arena HD
-http://supersonictv.live:8080/006779/439866/78147
-#EXTINF:-1 tvg-id="UK: SkySp Cricket" tvg-name="UK Sky Sports Cricket" tvg-logo="https://sportsjournalism.myblog.arts.ac.uk/files/2015/01/JpMroqIH.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Cricket
-http://supersonictv.live:8080/006779/439866/78148
-#EXTINF:-1 tvg-id="UK: SkySp F1" tvg-name="UK Sky Sports F1" tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2016/01/Sky-Sport-F1-HD-IT-CMYK-267136.jp" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports F1
-http://supersonictv.live:8080/006779/439866/78149
-#EXTINF:-1 tvg-id="UK: SkySp Football" tvg-name="UK Sky Sports Football HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Football HD
-http://supersonictv.live:8080/006779/439866/78150
-#EXTINF:-1 tvg-id="UK: SkySp Golf HD" tvg-name="UK Sky Sports Golf HD" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Golf HD
-http://supersonictv.live:8080/006779/439866/78151
-#EXTINF:-1 tvg-id="UK: SkySpMainEv" tvg-name="UK Sky Sports Main Events HD" tvg-logo="https://4.bp.blogspot.com/-6fz4IHYpdg8/WzWW31npvGI/AAAAAAAAAUg/oIwjzlSngxAaUS9EdGQna-LvJBglsmxVgCLcBGAs/s320/download.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Main Events HD
-http://supersonictv.live:8080/006779/439866/78152
-#EXTINF:-1 tvg-id="UK: SkySp Mix HD" tvg-name="UK Sky Sports MIX" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/03/Sky-Sports-Mix.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports MIX
-http://supersonictv.live:8080/006779/439866/78153
-#EXTINF:-1 tvg-id="UK: SkySp News HD" tvg-name="UK Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports News HD
-http://supersonictv.live:8080/006779/439866/78154
-#EXTINF:-1 tvg-id="UK: SkySp PL" tvg-name="UK Sky Sports Premier League HD" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Premier League HD
-http://supersonictv.live:8080/006779/439866/78155
-#EXTINF:-1 tvg-id="UK: SkySp Racing" tvg-name="UK Sky Sports Racing" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", Sky Sports Racing
-http://supersonictv.live:8080/006779/439866/78156
-
 
 
 
@@ -3245,6 +3241,38 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", QSPORT HD 
+http://95.85.109.219:7000/play/a05u
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", MMA-TV.com HD
+http://95.85.109.219:7000/play/a089
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", Eurosport 1 HD
+http://95.85.109.219:7000/play/a076
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", Eurosport 2 HD
+http://95.85.109.219:7000/play/704
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", Futbol TV
+http://95.85.109.219:7000/play/a09o
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", SPORT 1
+http://95.85.109.219:7000/play/a08e
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", SPORT 2
+http://95.85.109.219:7000/play/a08f
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", SPORT 3
+http://95.85.109.219:7000/play/a08g
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", SPORT 4
+http://95.85.109.219:7000/play/a08h
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", SPORT UZ
+http://95.85.109.219:7000/play/a09p
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", viju+ Sport
+http://95.85.109.219:7000/play/a094
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", Матч! Планета
+http://95.85.109.219:7000/play/a095
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", Setanta_Сетанта Спорт 1
+http://95.85.109.219:7000/play/a067
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", Setanta_Сетанта Спорт 2
+http://95.85.109.219:7000/play/a068
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", Turkmenistan Sport
+http://95.85.109.219:7000/play/a00e
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", Russian Extream HD
+http://195.26.83.96:7029/play/a008
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Беларусь 5.®
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
