@@ -343,6 +343,17 @@ http://protv.fun/play/live.php?mac=00:1B:79:F9:2B:56&stream=1919396&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax",SPOTV 2 HD
 http://protv.fun/play/live.php?mac=00:1B:79:F9:2B:56&stream=1919395&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="ShareExt@Relax",TRUE SPORT 1 (TH)
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport1.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="ShareExt@Relax",TRUE SPORT 2 (TH)
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport2hd-1.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="ShareExt@Relax",TRUE SPORT 3 (TH)
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport3hd.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="ShareExt@Relax",TRUE SPORT 5 (TH)
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport5-1.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="ShareExt@Relax",TRUE SPORT 7 (TH)
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport7-1.m3u8?raw=true
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 1 HD" tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: beINSPORTS 1 HD (B)
 http://0amoy91hrw.redplus.me:80/live/VinciDiv/26092021/200798.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS 2 HD" tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax",AR: beINSPORTS 2 HD (B)
@@ -2594,6 +2605,27 @@ http://supersonictv.live:8080/006779/439866/47753
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS", Sportsman 
 http://supersonictv.live:8080/006779/439866/47754
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", SKYSPORTS MAIN EVENT HD
+http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/137720
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", SkySports F1 FHD (D)
+http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/53704
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", SkySports Golf FHD 
+http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/35240
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", SkySports Main Event
+http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/35243
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", SkySports Mix FHD 
+http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/53706
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", SkySports PremierLeague
+http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/35241
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", SkySports Cricket FHD 
+http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/45940
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", SkySports F1 FHD
+http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/35244
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS", SKYSPORTS RACING FHD
+http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/76842
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JGqN-L9KhIQ/WMBKT4-R3rI/AAAAAAAADUs/bY3a0dLMsc8SI_cSfylUfR71LUsopzwTACLcB/s1600/racing-hd.jpg" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS",FoxSports Racing
 http://supersonictv.live:8080/006779/439866/40462
