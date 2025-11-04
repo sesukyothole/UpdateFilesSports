@@ -2174,7 +2174,30 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",ASTRO ARENA
+http://51.89.166.17:3002/index.php?id=Arena
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",ASTRO ARENA 2
+http://51.89.166.17:3002/index.php?id=Arena2
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",BOLA ARENA 1
+http://51.89.166.17:3002/index.php?id=Bolaarena1
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",BOLA ARENA 2
+http://51.89.166.17:3002/index.php?id=Bolaarena2
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",ASTRO PREMIER LEAGUE
+http://51.89.166.17:3002/index.php?id=go_assp1
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",ASTRO PREMIER LEAGUE 2
+http://51.89.166.17:3002/index.php?id=go_assp2
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",ASTRO GRANDSTAND
+http://51.89.166.17:3002/index.php?id=go_assp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",ASTRO FOOTBALL
+http://51.89.166.17:3002/index.php?id=go_assp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",ASTRO SPORTSPLUS
+http://51.89.166.17:3002/index.php?id=go_sportsplus
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",ASTRO CRICKET
+http://51.89.166.17:3002/index.php?id=Acricket
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",NBA TV
+http://51.89.166.17:3002/index.php?id=Nba
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",ASTRO GOLF
+http://51.89.166.17:3002/index.php?id=Agolf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",Astro•Cricket
 http://iptvtree.net:8080/F28312/cc1dc138/157565
