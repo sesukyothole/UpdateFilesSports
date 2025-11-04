@@ -186,38 +186,6 @@ http://66.102.120.18:8000/play/a03o/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",KSA SPORT 2 HD (TATA)
 http://66.102.120.18:8000/play/a03p/index.m3u8
 
-
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="ShareExt@Relax",CHAMPIONS TV 1 (Ott.Nav)
-
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions2.jpg?raw=true" group-title="ShareExt@Relax",CHAMPIONS TV 2 (Ott.Nav)
-
-
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions3.jpg?raw=true" group-title="ShareExt@Relax",CHAMPIONS TV 3 (Ott.Nav)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions5.jpg?raw=true" group-title="ShareExt@Relax",CHAMPIONS TV 5 (Ott.Nav)
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions6.jpg?raw=true" group-title="ShareExt@Relax",CHAMPIONS TV 6 (Ott.Nav)
-
-
 #EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="ShareExt@Relax",VIETNAM: THAP CAM TV 1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
@@ -1613,42 +1581,6 @@ http://49.0.64.96:8007/HIFIGHT
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vsL9qN2/Boi-wwe.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", WWE
 http://Supersonictv.live:8080/live/006779/439866/22185.ts
-
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-
-
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
-
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-
-
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
