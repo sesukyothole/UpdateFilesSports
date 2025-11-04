@@ -1083,7 +1083,7 @@ http://de.online24.pm/play/1138/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="SHAREEXT@ TEST || SPORTS" tvg-name="Play4", Play4
 #EXTGRP:BE & NL
 http://de.online24.pm/play/8004/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Play5", Play5
+#EXTINF:0 group-title="SHAREEXT@ TEST || SPORTS" tvg-name="Play5", Play5
 #EXTGRP:BE & NL
 http://de.online24.pm/play/8005/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 group-title="SHAREEXT@ TEST || SPORTS" tvg-id="XPlay6.be" tvg-name="Play6", Play6
